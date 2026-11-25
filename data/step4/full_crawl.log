@@ -1,0 +1,327 @@
+Đã có 25 bài thành công trong checkpoint. Còn 5975 bài.
+PROGRESS {"updated_at": "2026-11-20T15:07:44+07:00", "elapsed_seconds": 0.0, "total_candidates": 6000, "success": 25, "success_this_run": 0, "failed_attempts_this_run": 0, "remaining": 5975, "requests_this_run": 0, "by_source_success": {"VnExpress": 5, "TuoiTre": 5, "ThanhNien": 5, "DanTri": 5, "VietnamNet": 5}, "by_source_fail_this_run": {"VnExpress": 0, "TuoiTre": 0, "ThanhNien": 0, "DanTri": 0, "VietnamNet": 0}, "percent": 0.42}
+VnExpress: còn 1195 bài, dùng 2 worker
+TuoiTre: còn 395 bài, dùng 1 worker
+ThanhNien: còn 395 bài, dùng 1 worker
+DanTri: còn 795 bài, dùng 2 worker
+VietnamNet: còn 3195 bài, dùng 3 worker
+[FAIL] ThanhNien C000212 200 parse: nội dung quá ngắn (0 ký tự)
+[VnExpress-w0] success=25/598
+[VnExpress-w1] success=25/597
+[ThanhNien-w0] success=25/395
+[DanTri-w1] success=25/397
+[DanTri-w0] success=25/398
+[TuoiTre-w0] success=25/395
+[VietnamNet-w0] success=25/1065
+[VietnamNet-w2] success=25/1065
+[VietnamNet-w1] success=25/1065
+[FAIL] VietnamNet C000435 200 parse: nội dung quá ngắn (0 ký tự)
+[FAIL] VietnamNet C000459 200 parse: nội dung quá ngắn (0 ký tự)
+[FAIL] VietnamNet C000480 200 parse: nội dung quá ngắn (0 ký tự)
+[FAIL] VnExpress C000100 200 parse: nội dung quá ngắn (150 ký tự)
+[VnExpress-w1] success=50/597
+[ThanhNien-w0] success=50/395
+[VnExpress-w0] success=50/598
+[DanTri-w1] success=50/397
+[DanTri-w0] success=50/398
+[VietnamNet-w0] success=50/1065
+[TuoiTre-w0] success=50/395
+[VietnamNet-w2] success=50/1065
+[VietnamNet-w1] success=50/1065
+[FAIL] DanTri C001023 200 parse: nội dung quá ngắn (0 ký tự)
+[FAIL] DanTri C001027 200 parse: không tìm thấy khối nội dung
+[FAIL] DanTri C001026 200 parse: không tìm thấy khối nội dung
+[FAIL] VnExpress C000137 200 parse: không tìm thấy khối nội dung
+[FAIL] DanTri C001035 200 parse: không tìm thấy khối nội dung
+[FAIL] DanTri C001038 200 parse: không tìm thấy khối nội dung
+[ThanhNien-w0] success=75/395
+[VnExpress-w0] success=75/598
+[VnExpress-w1] success=75/597
+[FAIL] DanTri C001055 200 parse: không tìm thấy khối nội dung
+[DanTri-w0] success=75/398
+[VietnamNet-w0] success=75/1065
+[VietnamNet-w2] success=75/1065
+[FAIL] DanTri C001063 200 parse: không tìm thấy khối nội dung
+[DanTri-w1] success=75/397
+[TuoiTre-w0] success=75/395
+[VietnamNet-w1] success=75/1065
+[FAIL] VnExpress C000776 200 parse: nội dung quá ngắn (0 ký tự)
+[FAIL] DanTri C001080 200 parse: không tìm thấy khối nội dung
+[ThanhNien-w0] success=100/395
+[VnExpress-w1] success=100/597
+[FAIL] VnExpress C000808 200 parse: nội dung quá ngắn (0 ký tự)
+[VnExpress-w0] success=100/598
+[FAIL] VietnamNet C000645 200 parse: nội dung quá ngắn (0 ký tự)
+[VietnamNet-w0] success=100/1065
+[DanTri-w0] success=100/398
+[VietnamNet-w2] success=100/1065
+[DanTri-w1] success=100/397
+[VietnamNet-w1] success=100/1065
+[TuoiTre-w0] success=100/395
+[FAIL] DanTri C001777 428 HTTP 428
+[FAIL] DanTri C001774 428 HTTP 428
+[FAIL] DanTri C001776 428 HTTP 428
+[FAIL] VietnamNet C000676 200 parse: nội dung quá ngắn (0 ký tự)
+[FAIL] DanTri C001781 428 HTTP 428
+[FAIL] VnExpress C000838 200 parse: nội dung quá ngắn (0 ký tự)
+[FAIL] DanTri C001780 428 HTTP 428
+[FAIL] DanTri C001785 428 HTTP 428
+[FAIL] DanTri C001787 428 HTTP 428
+[FAIL] DanTri C001784 428 HTTP 428
+[FAIL] DanTri C001789 428 HTTP 428
+[FAIL] DanTri C001795 428 HTTP 428
+[ThanhNien-w0] success=125/395
+[FAIL] DanTri C001796 428 HTTP 428
+[FAIL] DanTri C001801 428 HTTP 428
+[FAIL] DanTri C001798 428 HTTP 428
+[VnExpress-w1] success=125/597
+[FAIL] DanTri C001803 428 HTTP 428
+[FAIL] VietnamNet C000711 200 parse: nội dung quá ngắn (0 ký tự)
+[FAIL] DanTri C001800 428 HTTP 428
+[FAIL] DanTri C001805 428 HTTP 428
+[FAIL] DanTri C001802 428 HTTP 428
+[VnExpress-w0] success=125/598
+[FAIL] DanTri C001807 428 HTTP 428
+[FAIL] DanTri C001804 428 HTTP 428
+[FAIL] DanTri C001809 428 HTTP 428
+[FAIL] DanTri C001806 428 HTTP 428
+[FAIL] VietnamNet C000720 200 parse: nội dung quá ngắn (0 ký tự)
+[FAIL] DanTri C001811 428 HTTP 428
+[FAIL] DanTri C001808 428 HTTP 428
+[FAIL] DanTri C001813 428 HTTP 428
+[FAIL] DanTri C001810 428 HTTP 428
+[FAIL] DanTri C001815 428 HTTP 428
+[FAIL] DanTri C001812 428 HTTP 428
+[VietnamNet-w0] success=125/1065
+[FAIL] DanTri C001817 428 HTTP 428
+[FAIL] DanTri C001814 428 HTTP 428
+[FAIL] DanTri C001819 428 HTTP 428
+[FAIL] DanTri C001816 428 HTTP 428
+[FAIL] DanTri C001821 428 HTTP 428
+[VietnamNet-w2] success=125/1065
+[FAIL] DanTri C001818 428 HTTP 428
+[FAIL] VnExpress C000874 200 parse: nội dung quá ngắn (0 ký tự)
+[FAIL] DanTri C001823 428 HTTP 428
+[FAIL] DanTri C001820 428 HTTP 428
+[FAIL] DanTri C001825 428 HTTP 428
+[FAIL] DanTri C001822 428 HTTP 428
+[FAIL] DanTri C001827 428 HTTP 428
+[TuoiTre-w0] success=125/395
+[FAIL] DanTri C001824 428 HTTP 428
+[FAIL] DanTri C001829 428 HTTP 428
+[FAIL] DanTri C001826 428 HTTP 428
+[VietnamNet-w1] success=125/1065
+[FAIL] DanTri C001831 428 HTTP 428
+[FAIL] DanTri C001828 428 HTTP 428
+[ThanhNien-w0] success=150/395
+[VnExpress-w1] success=150/597
+[FAIL] DanTri C001830 428 HTTP 428
+[FAIL] DanTri C001832 428 HTTP 428
+[VnExpress-w0] success=150/598
+[FAIL] DanTri C001834 428 HTTP 428
+[VietnamNet-w0] success=150/1065
+[FAIL] DanTri C001836 428 HTTP 428
+[FAIL] DanTri C001838 428 HTTP 428
+[FAIL] VnExpress C001517 200 parse: nội dung quá ngắn (135 ký tự)
+[FAIL] DanTri C001840 428 HTTP 428
+[VietnamNet-w2] success=150/1065
+[FAIL] DanTri C001833 428 HTTP 428
+[FAIL] DanTri C001842 428 HTTP 428
+[FAIL] DanTri C001835 428 HTTP 428
+[FAIL] DanTri C001844 428 HTTP 428
+[FAIL] DanTri C001837 428 HTTP 428
+[TuoiTre-w0] success=150/395
+[FAIL] DanTri C001846 428 HTTP 428
+[FAIL] DanTri C001839 428 HTTP 428
+[FAIL] DanTri C001848 428 HTTP 428
+[FAIL] DanTri C001841 428 HTTP 428
+[VietnamNet-w1] success=150/1065
+[FAIL] DanTri C001850 428 HTTP 428
+[FAIL] DanTri C001843 428 HTTP 428
+[FAIL] DanTri C002502 428 HTTP 428
+[FAIL] DanTri C001845 428 HTTP 428
+[FAIL] DanTri C002504 428 HTTP 428
+[FAIL] DanTri C001847 428 HTTP 428
+[FAIL] DanTri C002506 428 HTTP 428
+[FAIL] DanTri C001849 428 HTTP 428
+[FAIL] DanTri C002508 428 HTTP 428
+[FAIL] DanTri C002510 428 HTTP 428
+[FAIL] DanTri C002503 428 HTTP 428
+[ThanhNien-w0] success=175/395
+[FAIL] DanTri C002512 428 HTTP 428
+[FAIL] DanTri C002505 428 HTTP 428
+[FAIL] DanTri C002514 428 HTTP 428
+[FAIL] DanTri C002507 428 HTTP 428
+[FAIL] DanTri C002509 428 HTTP 428
+[FAIL] DanTri C002511 428 HTTP 428
+[FAIL] DanTri C002520 428 HTTP 428
+[FAIL] DanTri C002513 428 HTTP 428
+[FAIL] DanTri C002522 428 HTTP 428
+[FAIL] DanTri C002515 428 HTTP 428
+[FAIL] DanTri C002524 428 HTTP 428
+[FAIL] DanTri C002517 428 HTTP 428
+[FAIL] DanTri C002526 428 HTTP 428
+[FAIL] DanTri C002519 428 HTTP 428
+[FAIL] DanTri C002528 428 HTTP 428
+[FAIL] DanTri C002521 428 HTTP 428
+[FAIL] DanTri C002530 428 HTTP 428
+[FAIL] DanTri C002523 428 HTTP 428
+[FAIL] DanTri C002532 428 HTTP 428
+[VnExpress-w1] success=175/597
+[FAIL] DanTri C002525 428 HTTP 428
+[FAIL] DanTri C002534 428 HTTP 428
+[FAIL] DanTri C002527 428 HTTP 428
+[FAIL] DanTri C002536 428 HTTP 428
+[FAIL] DanTri C002529 428 HTTP 428
+[VnExpress-w0] success=175/598
+[FAIL] DanTri C002538 428 HTTP 428
+[FAIL] DanTri C002531 428 HTTP 428
+[FAIL] DanTri C002540 428 HTTP 428
+[VietnamNet-w0] success=175/1065
+[FAIL] DanTri C002533 428 HTTP 428
+[FAIL] DanTri C002542 428 HTTP 428
+[FAIL] DanTri C002535 428 HTTP 428
+[FAIL] DanTri C002544 428 HTTP 428
+[FAIL] DanTri C002537 428 HTTP 428
+[VietnamNet-w2] success=175/1065
+[TuoiTre-w0] success=175/395
+[VietnamNet-w1] success=175/1065
+[ThanhNien-w0] success=200/395
+[VnExpress-w0] success=200/598
+[VnExpress-w1] success=200/597
+[VietnamNet-w0] success=200/1065
+[VietnamNet-w2] success=200/1065
+[TuoiTre-w0] success=200/395
+[VietnamNet-w1] success=200/1065
+[ThanhNien-w0] success=225/395
+[VnExpress-w1] success=225/597
+[VnExpress-w0] success=225/598
+[VietnamNet-w0] success=225/1065
+[VietnamNet-w2] success=225/1065
+[TuoiTre-w0] success=225/395
+[VietnamNet-w1] success=225/1065
+[ThanhNien-w0] success=250/395
+[FAIL] DanTri C002546 None ConnectTimeout: HTTPSConnectionPool(host='dantri.com.vn', port=443): Max retries exceeded with url: /phap-luat/dai-gia-dieu-cay-le-thanh-than-ra-toa-trong-vu-xa
+[FAIL] DanTri C002539 None ConnectTimeout: HTTPSConnectionPool(host='dantri.com.vn', port=443): Max retries exceeded with url: /phap-luat/ong-le-thanh-than-tinh-khi-do-con-dong-vien-toi-t
+[VnExpress-w0] success=250/598
+[VnExpress-w1] success=250/597
+[VietnamNet-w0] success=250/1065
+[VietnamNet-w2] success=250/1065
+[FAIL] ThanhNien C003975 200 parse: nội dung quá ngắn (0 ký tự)
+[TuoiTre-w0] success=250/395
+[VietnamNet-w1] success=250/1065
+[ThanhNien-w0] success=275/395
+[FAIL] TuoiTre C003919 200 parse: nội dung quá ngắn (107 ký tự)
+[FAIL] VietnamNet C001870 200 parse: nội dung quá ngắn (15 ký tự)
+[VietnamNet-w0] success=275/1065
+[VietnamNet-w2] success=275/1065
+[VnExpress-w1] success=275/597
+[TuoiTre-w0] success=275/395
+[VnExpress-w0] success=275/598
+[VietnamNet-w1] success=275/1065
+[FAIL] VietnamNet C001902 200 parse: nội dung quá ngắn (20 ký tự)
+[ThanhNien-w0] success=300/395
+[FAIL] VietnamNet C001901 200 parse: nội dung quá ngắn (32 ký tự)
+[FAIL] VietnamNet C001920 200 parse: nội dung quá ngắn (22 ký tự)
+[FAIL] VietnamNet C001930 200 parse: nội dung quá ngắn (31 ký tự)
+[FAIL] VietnamNet C001947 200 parse: nội dung quá ngắn (20 ký tự)
+[FAIL] VietnamNet C001950 200 parse: nội dung quá ngắn (24 ký tự)
+[FAIL] VietnamNet C001951 200 parse: nội dung quá ngắn (20 ký tự)
+[FAIL] VietnamNet C001960 200 parse: nội dung quá ngắn (9 ký tự)
+[TuoiTre-w0] success=300/395
+[VietnamNet-w0] success=300/1065
+[VietnamNet-w2] success=300/1065
+[FAIL] VietnamNet C001968 200 parse: nội dung quá ngắn (24 ký tự)
+[ThanhNien-w0] success=325/395
+[FAIL] VietnamNet C001967 200 parse: nội dung quá ngắn (28 ký tự)
+[VietnamNet-w1] success=300/1065
+[VnExpress-w0] success=300/598
+[FAIL] VnExpress C003007 200 parse: nội dung quá ngắn (131 ký tự)
+[FAIL] VietnamNet C001992 200 parse: nội dung quá ngắn (31 ký tự)
+[VnExpress-w1] success=300/597
+[FAIL] VietnamNet C001991 200 parse: nội dung quá ngắn (20 ký tự)
+[FAIL] VnExpress C003022 200 parse: nội dung quá ngắn (133 ký tự)
+[FAIL] VietnamNet C001996 200 parse: nội dung quá ngắn (16 ký tự)
+[FAIL] VnExpress C003015 200 parse: nội dung quá ngắn (136 ký tự)
+[FAIL] VietnamNet C002001 200 parse: nội dung quá ngắn (20 ký tự)
+[FAIL] VietnamNet C002002 200 parse: nội dung quá ngắn (24 ký tự)
+[FAIL] VietnamNet C002005 200 parse: nội dung quá ngắn (29 ký tự)
+[FAIL] VnExpress C003030 200 parse: nội dung quá ngắn (141 ký tự)
+[FAIL] VnExpress C003036 200 parse: nội dung quá ngắn (146 ký tự)
+[FAIL] VnExpress C003041 200 parse: nội dung quá ngắn (152 ký tự)
+[TuoiTre-w0] success=325/395
+[ThanhNien-w0] success=350/395
+[FAIL] VnExpress C003050 200 parse: nội dung quá ngắn (134 ký tự)
+[VietnamNet-w2] success=325/1065
+[VietnamNet-w0] success=325/1065
+[FAIL] VietnamNet C002050 200 parse: nội dung quá ngắn (8 ký tự)
+[FAIL] VnExpress C003058 200 parse: nội dung quá ngắn (177 ký tự)
+[FAIL] DanTri C002548 None ConnectTimeout: HTTPSConnectionPool(host='dantri.com.vn', port=443): Max retries exceeded with url: /phap-luat/mot-giam-doc-cong-ty-lam-nghiep-bi-ban-o-dong-nai
+[FAIL] DanTri C002541 None ConnectTimeout: HTTPSConnectionPool(host='dantri.com.vn', port=443): Max retries exceeded with url: /phap-luat/cuu-pgd-benh-vien-phoi-ha-noi-chi-dao-3-nhan-vien
+[VietnamNet-w1] success=325/1065
+[FAIL] VnExpress C003065 200 parse: nội dung quá ngắn (120 ký tự)
+[VnExpress-w1] success=325/597
+[VnExpress-w0] success=325/598
+[FAIL] VnExpress C003082 200 parse: nội dung quá ngắn (142 ký tự)
+[FAIL] VietnamNet C002091 200 parse: nội dung quá ngắn (12 ký tự)
+[FAIL] VnExpress C003090 200 parse: nội dung quá ngắn (151 ký tự)
+[ThanhNien-w0] success=375/395
+[TuoiTre-w0] success=350/395
+[VietnamNet-w2] success=350/1065
+[FAIL] VnExpress C003095 200 parse: nội dung quá ngắn (145 ký tự)
+[VietnamNet-w0] success=350/1065
+[FAIL] VietnamNet C002133 200 parse: nội dung quá ngắn (127 ký tự)
+[FAIL] VnExpress C003101 200 parse: nội dung quá ngắn (171 ký tự)
+[FAIL] VietnamNet C002132 200 parse: nội dung quá ngắn (139 ký tự)
+[FAIL] VietnamNet C002137 200 parse: nội dung quá ngắn (127 ký tự)
+[FAIL] VnExpress C003112 200 parse: nội dung quá ngắn (140 ký tự)
+[VietnamNet-w1] success=350/1065
+[DONE] ThanhNien-w0: success=393, fail=2
+[FAIL] VnExpress C003122 200 parse: nội dung quá ngắn (124 ký tự)
+[VnExpress-w1] success=350/597
+[VnExpress-w0] success=350/598
+[TuoiTre-w0] success=375/395
+[FAIL] VietnamNet C002190 200 parse: nội dung quá ngắn (26 ký tự)
+[FAIL] VnExpress C003131 200 parse: nội dung quá ngắn (140 ký tự)
+[FAIL] VietnamNet C002189 200 parse: nội dung quá ngắn (27 ký tự)
+[FAIL] VietnamNet C002194 200 parse: nội dung quá ngắn (20 ký tự)
+[FAIL] VietnamNet C002195 200 parse: nội dung quá ngắn (34 ký tự)
+[FAIL] VietnamNet C002199 200 parse: nội dung quá ngắn (204 ký tự)
+[VietnamNet-w2] success=375/1065
+[VietnamNet-w0] success=375/1065
+[FAIL] VnExpress C003150 200 parse: nội dung quá ngắn (129 ký tự)
+[VietnamNet-w1] success=375/1065
+[DONE] TuoiTre-w0: success=394, fail=1
+[VnExpress-w1] success=375/597
+[VnExpress-w0] success=375/598
+[VietnamNet-w2] success=400/1065
+[VietnamNet-w0] success=400/1065
+[VietnamNet-w1] success=400/1065
+[VnExpress-w1] success=400/597
+[VnExpress-w0] success=400/598
+[FAIL] DanTri C002550 None ConnectTimeout: HTTPSConnectionPool(host='dantri.com.vn', port=443): Max retries exceeded with url: /phap-luat/lam-quen-be-gai-qua-mang-xa-hoi-thanh-nien-nhieu-
+[FAIL] DanTri C002543 None ConnectTimeout: HTTPSConnectionPool(host='dantri.com.vn', port=443): Max retries exceeded with url: /phap-luat/khoi-to-2-nguoi-dung-sau-website-phim-lau-co-hang
+[VietnamNet-w2] success=425/1065
+[VietnamNet-w0] success=425/1065
+[VietnamNet-w1] success=425/1065
+[FAIL] VnExpress C003878 200 parse: nội dung quá ngắn (139 ký tự)
+[VnExpress-w1] success=425/597
+[VnExpress-w0] success=425/598
+[VietnamNet-w2] success=450/1065
+[VietnamNet-w0] success=450/1065
+[VietnamNet-w1] success=450/1065
+[VnExpress-w1] success=450/597
+[VnExpress-w0] success=450/598
+[VietnamNet-w2] success=475/1065
+[VietnamNet-w0] success=475/1065
+[VietnamNet-w1] success=475/1065
+[VnExpress-w1] success=475/597
+[VietnamNet-w2] success=500/1065
+[VietnamNet-w0] success=500/1065
+[VnExpress-w0] success=475/598
+[VietnamNet-w1] success=500/1065
+[FAIL] VnExpress C004596 200 parse: nội dung quá ngắn (190 ký tự)
+[FAIL] VnExpress C004600 200 parse: nội dung quá ngắn (216 ký tự)
+[FAIL] DanTri C002552 None ConnectTimeout: HTTPSConnectionPool(host='dantri.com.vn', port=443): Max retries exceeded with url: /dt360/gia-vo-mua-nam-thanh-nien-giat-278-to-ve-so-cua-nguoi
+[FAIL] DanTri C002545 None ConnectTimeout: HTTPSConnectionPool(host='dantri.com.vn', port=443): Max retries exceeded with url: /phap-luat/o-nhom-o-campuchia-du-hen-ho-lua-tien-bang-vong-q
+[VietnamNet-w2] success=525/1065

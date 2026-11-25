@@ -1,0 +1,18 @@
+﻿ID_1,ID_2,Source_1,Source_2,Label_1,Label_2,Title_Similarity,Content_Similarity,Shared_Title_Tokens,Title_1,Title_2
+C002088,C002229,VietnamNet,VietnamNet,Thể thao,Thể thao,0.5,0.967,3,Nóng BXH Ngoại hạng Anh 2026/27 - Vòng 10: MU vào nhóm 'cầm đèn đỏ',Nóng BXH Ngoại hạng Anh 2026/27 - Vòng 9: Arsenal chiếm đỉnh bảng
+C004808,C004825,DanTri,DanTri,Công nghệ,Công nghệ,1.0,0.9379,5,"ASUS Zenbook 14: Đẹp từ thiết kế, tiện dụng trong cấu hình","ASUS Zenbook 14: Thiết kế đẹp, cấu hình tiện dụng"
+C000309,C000372,DanTri,VietnamNet,Kinh tế,Kinh tế,0.5625,0.9105,2,"Vingroup giữ vững vị trí thứ 6 trong ""Top 100 nơi làm việc tốt nhất Việt Nam""","Vingroup giữ vị trí thứ 6 'Nơi làm việc tốt nhất Việt Nam', Green SM dẫn đầu ngành"
+C001814,C004726,DanTri,ThanhNien,Thể thao,Thể thao,0.625,0.8728,4,Giải đấu thể thao điện tử Predator League 2027: Tìm kiếm đại diện Việt Nam đến APAC,Giải đấu Predator League 2027: Hành trình tìm kiếm đại diện Việt Nam đến đấu trường APAC
+C004054,C004137,DanTri,VietnamNet,Sức khỏe,Sức khỏe,0.8333,0.8527,3,"Đặc quyền mới tại Vinhomes Riverside: Người cao tuổi được khám miễn phí, cư dân giảm 20% viện phí","Vinhomes Riverside: Người cao tuổi được khám miễn phí, cư dân giảm 20% viện phí"
+C004772,C004934,DanTri,VietnamNet,Công nghệ,Công nghệ,0.4,0.8098,2,FPT Camera đạt 2 giải thưởng AI,FPT Camera lập cú đúp giải thưởng công nghệ năm 2026
+C003479,C003079,VietnamNet,VnExpress,Giáo dục,Giáo dục,0.5714,0.7945,4,Cuộc thi Gửi Tương Lai Xanh 2050 nhận hơn 10.500 bài thi,Cuộc thi 'Gửi tương lai xanh 2050' thu hút hơn 10.500 tác phẩm
+C003616,C003618,VietnamNet,VietnamNet,Giáo dục,Giáo dục,0.5882,0.78,5,Phụ huynh nghi bếp ăn bán trú nhập thịt trâu Ấn Độ: Sở GD-ĐT Hà Nội yêu cầu xác minh,"Phụ huynh nghi bếp ăn bán trú nhập thịt trâu Ấn Độ, hiệu trưởng ở Hà Nội lên tiếng"
+C002771,C002898,VietnamNet,VietnamNet,Pháp luật,Pháp luật,0.5714,0.7258,2,"Nữ đại gia xăng dầu Chu Thị Thành hầu tòa, đã khắc phục 99 tỷ đồng",Nữ đại gia xăng dầu Chu Thị Thành sắp hầu toà
+C000279,C000211,DanTri,ThanhNien,Kinh tế,Kinh tế,0.8,0.7219,2,Tập đoàn Bảo Tín sắp ra mắt thương hiệu trang sức cao cấp MHJ,Tập Đoàn Bảo Tín chính thức ra mắt MHJ - thương hiệu trang sức cao cấp
+C000365,C000482,VietnamNet,VietnamNet,Kinh tế,Kinh tế,0.8889,0.615,5,"Vietlott tìm thấy 2 tấm vé cùng trúng độc đắc hơn 3,2 tỷ đồng tối nay","Vietlott tìm thấy tấm vé trúng độc đắc hơn 6,5 tỷ đồng"
+C000419,C000475,VietnamNet,VietnamNet,Kinh tế,Kinh tế,0.8889,0.6134,5,Vietlott vừa tìm được tấm vé trúng độc đắc hơn 7 tỷ đồng,"Vietlott vừa tìm thấy tấm vé trúng độc đắc hơn 25,9 tỷ đồng"
+C001943,C001963,VietnamNet,VietnamNet,Thể thao,Thể thao,0.5833,0.6088,3,Lịch thi đấu bóng đá hôm nay 16/11: Gay cấn UEFA Nations League,Lịch thi đấu bóng đá hôm nay 15/11/2026: Kịch tính UEFA Nations League
+C000259,C000203,DanTri,ThanhNien,Kinh tế,Kinh tế,0.8,0.5971,2,"Bộ Tài chính đề xuất có thêm một loại hình xổ số mới, biết kết quả ngay","Đề xuất có thêm một loại hình xổ số mới, biết kết quả ngay"
+C004736,C004903,ThanhNien,VietnamNet,Công nghệ,Công nghệ,0.5,0.577,4,Viettel được cấp phép kinh doanh viễn thông ở Dominica,Viettel chính thức được cấp phép viễn thông tại Cộng hòa Dominica
+C002625,C002737,VietnamNet,VietnamNet,Pháp luật,Pháp luật,0.4211,0.5713,3,'Đại gia điếu cày' Lê Thanh Thản hầu tòa vụ bán 519 căn hộ xây sai phép,'Đại gia điếu cày' Lê Thanh Thản và dàn cựu cán bộ ở Hà Nội sắp hầu tòa
+C000365,C000582,VietnamNet,VietnamNet,Kinh tế,Kinh tế,0.6667,0.5698,4,"Vietlott tìm thấy 2 tấm vé cùng trúng độc đắc hơn 3,2 tỷ đồng tối nay",Vietlott tìm được 2 tấm vé cùng trúng độc đắc hơn 45 tỷ

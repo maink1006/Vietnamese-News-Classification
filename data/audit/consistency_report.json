@@ -1,0 +1,271 @@
+{
+  "checks_total": 32,
+  "checks_passed": 32,
+  "checks_failed": 0,
+  "counts": {
+    "step3_candidates": 6000,
+    "step4_success": 5915,
+    "step4_failed": 85,
+    "step4_not_attempted": 0,
+    "final_valid": 5898,
+    "content_invalid": 12,
+    "label_drops": 5,
+    "corrections": 88,
+    "by_label": {
+      "Công nghệ": 664,
+      "Du lịch": 746,
+      "Giáo dục": 727,
+      "Kinh tế": 740,
+      "Pháp luật": 746,
+      "Sức khỏe": 750,
+      "Thế giới": 810,
+      "Thể thao": 715
+    },
+    "by_source": {
+      "DanTri": 780,
+      "ThanhNien": 398,
+      "TuoiTre": 399,
+      "VietnamNet": 3152,
+      "VnExpress": 1169
+    },
+    "by_label_source": {
+      "Công nghệ": {
+        "DanTri": 97,
+        "ThanhNien": 49,
+        "TuoiTre": 50,
+        "VietnamNet": 324,
+        "VnExpress": 144
+      },
+      "Du lịch": {
+        "DanTri": 98,
+        "ThanhNien": 50,
+        "TuoiTre": 51,
+        "VietnamNet": 398,
+        "VnExpress": 149
+      },
+      "Giáo dục": {
+        "DanTri": 98,
+        "ThanhNien": 50,
+        "TuoiTre": 48,
+        "VietnamNet": 398,
+        "VnExpress": 133
+      },
+      "Kinh tế": {
+        "DanTri": 100,
+        "ThanhNien": 49,
+        "TuoiTre": 50,
+        "VietnamNet": 393,
+        "VnExpress": 148
+      },
+      "Pháp luật": {
+        "DanTri": 96,
+        "ThanhNien": 50,
+        "TuoiTre": 50,
+        "VietnamNet": 400,
+        "VnExpress": 150
+      },
+      "Sức khỏe": {
+        "DanTri": 100,
+        "ThanhNien": 49,
+        "TuoiTre": 50,
+        "VietnamNet": 400,
+        "VnExpress": 151
+      },
+      "Thế giới": {
+        "DanTri": 91,
+        "ThanhNien": 50,
+        "TuoiTre": 50,
+        "VietnamNet": 474,
+        "VnExpress": 145
+      },
+      "Thể thao": {
+        "DanTri": 100,
+        "ThanhNien": 51,
+        "TuoiTre": 50,
+        "VietnamNet": 365,
+        "VnExpress": 149
+      }
+    },
+    "split": {
+      "train": 4129,
+      "val": 886,
+      "test": 883
+    },
+    "label_status": {
+      "weak_source_category": 5738,
+      "corrected_verified": 83,
+      "verified_sample": 74,
+      "reviewed_multi_topic_keep": 3
+    },
+    "date_check": {
+      "consistent_within_1h": 4014,
+      "article_only_no_rss": 1123,
+      "diff_over_24h": 313,
+      "same_day_time_diff": 276,
+      "diff_under_24h": 172
+    }
+  },
+  "final_csv_sha256": "c68e24ec673cefc34fb7e697c60f404debce1e70178af6fa45d3ad7abd269dd8",
+  "checks": [
+    {
+      "Check": "Step3 6000",
+      "Pass": true,
+      "Detail": "6000"
+    },
+    {
+      "Check": "Step3 unique URL",
+      "Pass": true,
+      "Detail": "6000"
+    },
+    {
+      "Check": "Step3 750/label",
+      "Pass": true,
+      "Detail": "{'Công nghệ': 750, 'Du lịch': 750, 'Giáo dục': 750, 'Kinh tế': 750, 'Pháp luật': 750, 'Sức khỏe': 750, 'Thế giới': 750, 'Thể thao': 750}"
+    },
+    {
+      "Check": "Step4 counted",
+      "Pass": true,
+      "Detail": "5915+85+0"
+    },
+    {
+      "Check": "Step4 no unattempted",
+      "Pass": true,
+      "Detail": "0"
+    },
+    {
+      "Check": "Step4 IDs subset Step3",
+      "Pass": true,
+      "Detail": "0"
+    },
+    {
+      "Check": "Final = Step4 - invalid - drops",
+      "Pass": true,
+      "Detail": "5915-12-5=5898"
+    },
+    {
+      "Check": "Final unique ID",
+      "Pass": true,
+      "Detail": "5898"
+    },
+    {
+      "Check": "Final unique URL",
+      "Pass": true,
+      "Detail": "5898"
+    },
+    {
+      "Check": "Final 8 labels",
+      "Pass": true,
+      "Detail": "['Công nghệ', 'Du lịch', 'Giáo dục', 'Kinh tế', 'Pháp luật', 'Sức khỏe', 'Thế giới', 'Thể thao']"
+    },
+    {
+      "Check": "Final >=500/label",
+      "Pass": true,
+      "Detail": "{'Công nghệ': 664, 'Du lịch': 746, 'Giáo dục': 727, 'Kinh tế': 740, 'Pháp luật': 746, 'Sức khỏe': 750, 'Thế giới': 810, 'Thể thao': 715}"
+    },
+    {
+      "Check": "No Author column",
+      "Pass": true,
+      "Detail": "['ID', 'Title', 'Content', 'URL', 'Source', 'Published_Date', 'Date_Source', 'Date_Check', 'Original_Category', 'Label', 'Content_Length', 'Label_Status', 'Leakage_Group', 'Split']"
+    },
+    {
+      "Check": "No missing date",
+      "Pass": true,
+      "Detail": "0"
+    },
+    {
+      "Check": "All labels corrected in file",
+      "Pass": true,
+      "Detail": ""
+    },
+    {
+      "Check": "Corrections applied",
+      "Pass": true,
+      "Detail": "88"
+    },
+    {
+      "Check": "5 drops",
+      "Pass": true,
+      "Detail": "5"
+    },
+    {
+      "Check": "No exact content dup",
+      "Pass": true,
+      "Detail": "0"
+    },
+    {
+      "Check": "5 same-title groups",
+      "Pass": true,
+      "Detail": "5"
+    },
+    {
+      "Check": "Near duplicate pairs",
+      "Pass": true,
+      "Detail": "17"
+    },
+    {
+      "Check": "Leakage groups intact",
+      "Pass": true,
+      "Detail": "1"
+    },
+    {
+      "Check": "Split sums",
+      "Pass": true,
+      "Detail": "{'train': 4129, 'val': 886, 'test': 883}"
+    },
+    {
+      "Check": "Split ratio ~70/15/15",
+      "Pass": true,
+      "Detail": "{'train': 0.7001, 'val': 0.1502, 'test': 0.1497}"
+    },
+    {
+      "Check": "Label sample 80",
+      "Pass": true,
+      "Detail": "80"
+    },
+    {
+      "Check": "Label sample pre accuracy",
+      "Pass": true,
+      "Detail": "92.5"
+    },
+    {
+      "Check": "Label sample reviewed 78/78",
+      "Pass": true,
+      "Detail": "[78, 78]"
+    },
+    {
+      "Check": "Date corrected 32",
+      "Pass": true,
+      "Detail": "32"
+    },
+    {
+      "Check": "Date diff >24h",
+      "Pass": true,
+      "Detail": "313"
+    },
+    {
+      "Check": "Content min 500",
+      "Pass": true,
+      "Detail": "501"
+    },
+    {
+      "Check": "Content raw no delete",
+      "Pass": true,
+      "Detail": "5915"
+    },
+    {
+      "Check": "Input file exists",
+      "Pass": true,
+      "Detail": ""
+    },
+    {
+      "Check": "Raw Step4 exists",
+      "Pass": true,
+      "Detail": ""
+    },
+    {
+      "Check": "No final training",
+      "Pass": true,
+      "Detail": ""
+    }
+  ]
+}

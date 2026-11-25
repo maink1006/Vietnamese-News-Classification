@@ -1,0 +1,37 @@
+[
+  {
+    "site": "VnExpress",
+    "url": "https://vnexpress.net/sitemap.xml",
+    "status": 200,
+    "bytes": 1,
+    "children": 1
+  },
+  {
+    "site": "TuoiTre",
+    "url": "https://tuoitre.vn/sitemaps/index.rss",
+    "status": 200,
+    "bytes": 1,
+    "children": 1
+  },
+  {
+    "site": "ThanhNien",
+    "url": "https://thanhnien.vn/sitemap.xml",
+    "status": 200,
+    "bytes": 1,
+    "children": 1
+  },
+  {
+    "site": "DanTri",
+    "url": "https://dantri.com.vn/sitemap.xml",
+    "status": 200,
+    "bytes": 1,
+    "children": 1
+  },
+  {
+    "site": "VietnamNet",
+    "url": "https://vietnamnet.vn/sitemap.xml",
+    "status": 200,
+    "bytes": 1,
+    "children": 1
+  }
+]

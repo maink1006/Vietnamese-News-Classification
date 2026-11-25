@@ -1,0 +1,64 @@
+Đã có 5364 bài thành công trong checkpoint. Còn 636 bài.
+PROGRESS {"updated_at": "2026-11-20T15:37:59+07:00", "elapsed_seconds": 0.1, "total_candidates": 6000, "success": 5364, "success_this_run": 0, "failed_attempts_this_run": 0, "remaining": 636, "requests_this_run": 0, "by_source_success": {"VnExpress": 1171, "TuoiTre": 399, "ThanhNien": 398, "DanTri": 232, "VietnamNet": 3164}, "by_source_fail_this_run": {"VnExpress": 0, "TuoiTre": 0, "ThanhNien": 0, "DanTri": 0, "VietnamNet": 0}, "percent": 89.4}
+PROGRESS {"updated_at": "2026-11-20T15:37:59+07:00", "elapsed_seconds": 0.1, "total_candidates": 6000, "success": 5364, "success_this_run": 0, "failed_attempts_this_run": 0, "remaining": 636, "requests_this_run": 0, "by_source_success": {"VnExpress": 1171, "TuoiTre": 399, "ThanhNien": 398, "DanTri": 232, "VietnamNet": 3164}, "by_source_fail_this_run": {"VnExpress": 0, "TuoiTre": 0, "ThanhNien": 0, "DanTri": 0, "VietnamNet": 0}, "percent": 89.4}
+DONE
+{
+  "finished_at": "2026-11-20T15:37:59+07:00",
+  "total_candidates": 6000,
+  "success": 5364,
+  "failed": 185,
+  "not_attempted": 451,
+  "success_rate_pct": 89.4,
+  "content_length_min": 395,
+  "content_length_max": 34096,
+  "content_length_mean": 3300.9,
+  "missing_published_date": 0,
+  "missing_author": 947,
+  "exact_content_duplicate_groups": 1,
+  "same_title_groups": 4,
+  "not_attempted_by_source": {
+    "DanTri": 451
+  },
+  "by_source": [
+    {
+      "Source": "DanTri",
+      "Target": 800,
+      "Success": 232,
+      "Failed": 117,
+      "Not_Attempted": 451,
+      "Success_Rate_Pct": 29.0
+    },
+    {
+      "Source": "ThanhNien",
+      "Target": 400,
+      "Success": 398,
+      "Failed": 2,
+      "Not_Attempted": 0,
+      "Success_Rate_Pct": 99.5
+    },
+    {
+      "Source": "TuoiTre",
+      "Target": 400,
+      "Success": 399,
+      "Failed": 1,
+      "Not_Attempted": 0,
+      "Success_Rate_Pct": 99.75
+    },
+    {
+      "Source": "VietnamNet",
+      "Target": 3200,
+      "Success": 3164,
+      "Failed": 36,
+      "Not_Attempted": 0,
+      "Success_Rate_Pct": 98.88
+    },
+    {
+      "Source": "VnExpress",
+      "Target": 1200,
+      "Success": 1171,
+      "Failed": 29,
+      "Not_Attempted": 0,
+      "Success_Rate_Pct": 97.58
+    }
+  ]
+}

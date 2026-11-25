@@ -1,0 +1,132 @@
+[01/87] cache   VnExpress  Kinh tế    page=01 records=50
+[02/87] cache   VnExpress  Kinh tế    page=02 records=30
+[03/87] cache   VnExpress  Kinh tế    page=03 records=30
+[04/87] cache   VnExpress  Kinh tế    page=04 records=30
+[05/87] cache   VnExpress  Kinh tế    page=05 records=30
+[06/87] cache   TuoiTre    Kinh tế    page=01 records=50
+[07/87] cache   ThanhNien  Kinh tế    page=01 records=50
+[08/87] cache   DanTri     Kinh tế    page=01 records=100
+[09/87] cache   VietnamNet Kinh tế    page=01 records=1000
+[10/87] cache   VnExpress  Thế giới   page=01 records=47
+[11/87] cache   VnExpress  Thế giới   page=02 records=30
+[12/87] cache   VnExpress  Thế giới   page=03 records=30
+[13/87] cache   VnExpress  Thế giới   page=04 records=30
+[14/87] cache   VnExpress  Thế giới   page=05 records=30
+[15/87] cache   TuoiTre    Thế giới   page=01 records=50
+[16/87] cache   ThanhNien  Thế giới   page=01 records=50
+[17/87] cache   DanTri     Thế giới   page=01 records=100
+[18/87] cache   VietnamNet Thế giới   page=01 records=1000
+[19/87] cache   VnExpress  Thể thao   page=01 records=46
+[20/87] cache   VnExpress  Thể thao   page=02 records=30
+[21/87] cache   VnExpress  Thể thao   page=03 records=30
+[22/87] cache   VnExpress  Thể thao   page=04 records=30
+[23/87] cache   VnExpress  Thể thao   page=05 records=30
+[24/87] cache   TuoiTre    Thể thao   page=01 records=50
+[25/87] cache   ThanhNien  Thể thao   page=01 records=50
+[26/87] cache   DanTri     Thể thao   page=01 records=100
+[27/87] cache   VietnamNet Thể thao   page=01 records=1000
+[28/87] cache   VnExpress  Pháp luật  page=01 records=47
+[29/87] cache   VnExpress  Pháp luật  page=02 records=30
+[30/87] cache   VnExpress  Pháp luật  page=03 records=30
+[31/87] cache   VnExpress  Pháp luật  page=04 records=30
+[32/87] cache   VnExpress  Pháp luật  page=05 records=30
+[33/87] cache   TuoiTre    Pháp luật  page=01 records=50
+[34/87] cache   ThanhNien  Pháp luật  page=01 records=50
+[35/87] cache   DanTri     Pháp luật  page=01 records=100
+[36/87] cache   VietnamNet Pháp luật  page=01 records=1000
+[37/87] cache   VnExpress  Giáo dục   page=01 records=52
+[38/87] cache   VnExpress  Giáo dục   page=02 records=30
+[39/87] cache   VnExpress  Giáo dục   page=03 records=30
+[40/87] cache   VnExpress  Giáo dục   page=04 records=30
+[41/87] cache   VnExpress  Giáo dục   page=05 records=30
+[42/87] cache   TuoiTre    Giáo dục   page=01 records=50
+[43/87] cache   ThanhNien  Giáo dục   page=01 records=50
+[44/87] cache   DanTri     Giáo dục   page=01 records=100
+[45/87] cache   VietnamNet Giáo dục   page=01 records=1000
+[46/87] cache   VnExpress  Sức khỏe   page=01 records=50
+[47/87] cache   VnExpress  Sức khỏe   page=02 records=30
+[48/87] cache   VnExpress  Sức khỏe   page=03 records=29
+[49/87] cache   VnExpress  Sức khỏe   page=04 records=30
+[50/87] cache   VnExpress  Sức khỏe   page=05 records=30
+[51/87] cache   TuoiTre    Sức khỏe   page=01 records=50
+[52/87] cache   ThanhNien  Sức khỏe   page=01 records=50
+[53/87] cache   DanTri     Sức khỏe   page=01 records=100
+[54/87] cache   VietnamNet Sức khỏe   page=01 records=1000
+[55/87] cache   VnExpress  Công nghệ  page=01 records=48
+[56/87] cache   VnExpress  Công nghệ  page=02 records=27
+[57/87] cache   VnExpress  Công nghệ  page=03 records=27
+[58/87] cache   VnExpress  Công nghệ  page=04 records=29
+[59/87] cache   VnExpress  Công nghệ  page=05 records=30
+[60/87] cache   TuoiTre    Công nghệ  page=01 records=50
+[61/87] cache   ThanhNien  Công nghệ  page=01 records=50
+[62/87] cache   DanTri     Công nghệ  page=01 records=100
+[63/87] cache   VietnamNet Công nghệ  page=01 records=31
+[64/87] cache   VietnamNet Công nghệ  page=02 records=25
+[65/87] cache   VietnamNet Công nghệ  page=03 records=25
+[66/87] cache   VietnamNet Công nghệ  page=04 records=25
+[67/87] cache   VietnamNet Công nghệ  page=05 records=25
+[68/87] cache   VietnamNet Công nghệ  page=06 records=25
+[69/87] cache   VietnamNet Công nghệ  page=07 records=25
+[70/87] cache   VietnamNet Công nghệ  page=08 records=25
+[71/87] cache   VietnamNet Công nghệ  page=09 records=25
+[72/87] cache   VietnamNet Công nghệ  page=10 records=25
+[73/87] cache   VietnamNet Công nghệ  page=11 records=25
+[74/87] cache   VietnamNet Công nghệ  page=12 records=25
+[75/87] cache   VietnamNet Công nghệ  page=13 records=25
+[76/87] cache   VietnamNet Công nghệ  page=14 records=25
+[77/87] cache   VietnamNet Công nghệ  page=15 records=25
+[78/87] cache   VietnamNet Công nghệ  page=16 records=25
+[79/87] cache   VnExpress  Du lịch    page=01 records=64
+[80/87] cache   VnExpress  Du lịch    page=02 records=30
+[81/87] cache   VnExpress  Du lịch    page=03 records=30
+[82/87] cache   VnExpress  Du lịch    page=04 records=30
+[83/87] cache   VnExpress  Du lịch    page=05 records=30
+[84/87] cache   TuoiTre    Du lịch    page=01 records=50
+[85/87] cache   ThanhNien  Du lịch    page=01 records=50
+[86/87] cache   DanTri     Du lịch    page=01 records=100
+[87/87] cache   VietnamNet Du lịch    page=01 records=1000
+[fallback] cache   TuoiTre    Kinh tế    page=99 records=15
+[fallback] cache   DanTri     Kinh tế    page=99 records=51
+[fallback] cache   TuoiTre    Thế giới   page=99 records=21
+[fallback] cache   DanTri     Thế giới   page=99 records=39
+[fallback] cache   TuoiTre    Thể thao   page=99 records=38
+[fallback] cache   DanTri     Thể thao   page=99 records=53
+[fallback] cache   TuoiTre    Pháp luật  page=99 records=18
+[fallback] cache   DanTri     Pháp luật  page=99 records=34
+[fallback] cache   TuoiTre    Giáo dục   page=99 records=24
+[fallback] cache   DanTri     Giáo dục   page=99 records=59
+[fallback] cache   TuoiTre    Sức khỏe   page=99 records=22
+[fallback] cache   DanTri     Sức khỏe   page=99 records=66
+[fallback] cache   TuoiTre    Công nghệ  page=99 records=31
+[fallback] cache   DanTri     Công nghệ  page=99 records=35
+[fallback] cache   TuoiTre    Du lịch    page=99 records=21
+[fallback] cache   DanTri     Du lịch    page=99 records=44
+[fallback] cache   VietnamNet Công nghệ  page=17 records=25
+
+DONE
+{
+  "tasks_total": 104,
+  "cache_hits": 104,
+  "fetched": 0,
+  "errors": 0,
+  "network_requests": 0,
+  "raw_records_including_rss_enrichment": 11388,
+  "unique_urls_after_dedupe": 10609,
+  "selected": 6000,
+  "gap_total": 0,
+  "duplicate_url_cases": 20,
+  "potential_title_duplicate_cases": 6
+}
+Selected by label/source:
+ Source     VnExpress  TuoiTre  ThanhNien  ...  Total  Target  Gap
+Label                                     ...                    
+Kinh tế          150       50         50  ...    750     750    0
+Thế giới         150       50         50  ...    750     750    0
+Thể thao         150       50         50  ...    750     750    0
+Pháp luật        150       50         50  ...    750     750    0
+Giáo dục         150       50         50  ...    750     750    0
+Sức khỏe         150       50         50  ...    750     750    0
+Công nghệ        150       50         50  ...    750     750    0
+Du lịch          150       50         50  ...    750     750    0
+
+[8 rows x 8 columns]

@@ -1,0 +1,32 @@
+[
+  {
+    "site": "VnExpress",
+    "url": "https://vnexpress.net/robots.txt",
+    "status": 200,
+    "bytes": 1
+  },
+  {
+    "site": "TuoiTre",
+    "url": "https://tuoitre.vn/robots.txt",
+    "status": 200,
+    "bytes": 1
+  },
+  {
+    "site": "ThanhNien",
+    "url": "https://thanhnien.vn/robots.txt",
+    "status": 200,
+    "bytes": 1
+  },
+  {
+    "site": "DanTri",
+    "url": "https://dantri.com.vn/robots.txt",
+    "status": 200,
+    "bytes": 1
+  },
+  {
+    "site": "VietnamNet",
+    "url": "https://vietnamnet.vn/robots.txt",
+    "status": 200,
+    "bytes": 1
+  }
+]

@@ -1,0 +1,23 @@
+User-agent: * 
+Allow: /
+Disallow: /tim-kiem?
+Disallow: /tim-kiem-
+Disallow: /sportapi
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+Sitemap: https://vietnamnet.vn/sitemap.xml
+Sitemap: https://vietnamnet.vn/sitemap-categories.xml
+Sitemap: https://vietnamnet.vn/sitemap-news.xml
+Sitemap: https://vietnamnet.vn/sitemap-image.xml
+Sitemap: https://vietnamnet.vn/sitemap-video.xml

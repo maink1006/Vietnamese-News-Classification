@@ -1,0 +1,9 @@
+﻿Label,Category_Page,Pages_Checked,Pages_HTTP_200,Unique_Category_URLs,RSS_Items,RSS_Overlap,Union_Available,Candidate_Quota,Quota_Coverage_Pct,Primary_Method,Fallback_Method,Sitemap_Usable,Notes
+Kinh tế,https://vnexpress.net/kinh-doanh,5,5,169,60,59,170,150,100,category_pages_p1_p5,rss,no (child sitemaps return homepage HTML),Đủ quota 150 chỉ từ trang chuyên mục; RSS dùng bổ sung/đối chiếu.
+Thế giới,https://vnexpress.net/the-gioi,5,5,166,60,59,167,150,100,category_pages_p1_p5,rss,no (child sitemaps return homepage HTML),Đủ quota 150 chỉ từ trang chuyên mục; RSS dùng bổ sung/đối chiếu.
+Thể thao,https://vnexpress.net/the-thao,5,5,163,60,59,164,150,100,category_pages_p1_p5,rss,no (child sitemaps return homepage HTML),Đủ quota 150 chỉ từ trang chuyên mục; RSS dùng bổ sung/đối chiếu.
+Pháp luật,https://vnexpress.net/phap-luat,5,5,167,60,60,167,150,100,category_pages_p1_p5,rss,no (child sitemaps return homepage HTML),Đủ quota 150 chỉ từ trang chuyên mục; RSS dùng bổ sung/đối chiếu.
+Giáo dục,https://vnexpress.net/giao-duc,5,5,171,60,60,171,150,100,category_pages_p1_p5,rss,no (child sitemaps return homepage HTML),Đủ quota 150 chỉ từ trang chuyên mục; RSS dùng bổ sung/đối chiếu.
+Sức khỏe,https://vnexpress.net/suc-khoe,5,5,169,60,60,169,150,100,category_pages_p1_p5,rss,no (child sitemaps return homepage HTML),Đủ quota 150 chỉ từ trang chuyên mục; RSS dùng bổ sung/đối chiếu.
+Công nghệ,https://vnexpress.net/khoa-hoc-cong-nghe,5,5,161,60,47,174,150,100,category_pages_p1_p5,rss,no (child sitemaps return homepage HTML),Trang p1 gồm cả khoa học; p2-p5 dùng /cong-nghe-pN. Kiểm tra nhãn thủ công.
+Du lịch,https://vnexpress.net/du-lich,5,5,184,60,60,184,150,100,category_pages_p1_p5,rss,no (child sitemaps return homepage HTML),Đủ quota 150 chỉ từ trang chuyên mục; RSS dùng bổ sung/đối chiếu.

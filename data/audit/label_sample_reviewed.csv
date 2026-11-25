@@ -1,0 +1,81 @@
+﻿Sample_ID,ID,Source,Label_Original,Label_Reviewed,Review_Status,Title,Reason,Original_Correct
+S001,C000132,VnExpress,Kinh tế,Kinh tế,correct,Công ty ông Trần Bá Dương chốt đơn xuất khẩu chuối gần nửa tỷ USD,Khớp nhãn nguồn sau kiểm tra tiêu đề/nội dung,True
+S002,C000054,VnExpress,Kinh tế,Kinh tế,correct,"Tổng Bí thư, Chủ tịch nước Tô Lâm đề nghị hãng xe Trung Quốc tăng nội địa hóa tại Việt Nam",Khớp nhãn nguồn sau kiểm tra tiêu đề/nội dung,True
+S003,C000174,TuoiTre,Kinh tế,Kinh tế,correct,"‘Ông cai’, nhà thầu đau đầu với giá vật liệu xây dựng, giá nhân công xây dựng",Khớp nhãn nguồn sau kiểm tra tiêu đề/nội dung,True
+S004,C000190,TuoiTre,Kinh tế,Kinh tế,correct,"MoMo triển khai nhiều ưu đãi, đồng hành cùng Vibrant HCMC",Khớp nhãn nguồn sau kiểm tra tiêu đề/nội dung,True
+S005,C000243,ThanhNien,Kinh tế,Kinh tế,correct,WinX gia tăng ưu đãi cho 15 triệu khách hàng hội viên,Khớp nhãn nguồn sau kiểm tra tiêu đề/nội dung,True
+S006,C000239,ThanhNien,Kinh tế,Kinh tế,correct,MB được vinh danh tại Ngày Công dân số Việt Nam 2026,Khớp nhãn nguồn sau kiểm tra tiêu đề/nội dung,True
+S007,C000301,DanTri,Kinh tế,Kinh tế,correct,Giá vàng lao dốc dưới 3.750 USD/ounce sau tín hiệu cứng rắn từ Fed,Khớp nhãn nguồn sau kiểm tra tiêu đề/nội dung,True
+S008,C000320,DanTri,Kinh tế,Kinh tế,correct,Sàn giao dịch carbon ra sao sau gần 5 tháng vận hành?,Khớp nhãn nguồn sau kiểm tra tiêu đề/nội dung,True
+S009,C000747,VietnamNet,Kinh tế,Kinh tế,correct,Xôn xao 'khách MB đột nhiên có tài khoản bán hàng rong': Ngân hàng giải thích sao?,Khớp nhãn nguồn sau kiểm tra tiêu đề/nội dung,True
+S010,C000590,VietnamNet,Kinh tế,Kinh tế,correct,"Giá xăng dầu hôm nay 7/11: Thế giới đi lên, dầu diesel dưới 29.000 đồng/lít",Khớp nhãn nguồn sau kiểm tra tiêu đề/nội dung,True
+S011,C000883,VnExpress,Thế giới,Công nghệ,corrected,Chiến dịch vận động phục chức cho Jensen Huang,"Bài về chiến dịch/Nvidia, thuộc chủ đề công nghệ; không phải thế giới chính trị.",False
+S012,C000824,VnExpress,Thế giới,Thế giới,correct,Nga cáo buộc lính Pháp 'trực tiếp tham chiến' ở Ukraine,Khớp nhãn nguồn sau kiểm tra tiêu đề/nội dung,True
+S013,C000924,TuoiTre,Thế giới,Thế giới,correct,Trung - Mỹ - Nga ra 'tuyên bố hòa bình' sau thượng đỉnh ba bên,Khớp nhãn nguồn sau kiểm tra tiêu đề/nội dung,True
+S014,C000940,TuoiTre,Thế giới,Thế giới,correct,"APEC 2026: Ông Trump nói về vai trò của Mỹ, ông Putin hé lộ ưu tiên của Nga",Khớp nhãn nguồn sau kiểm tra tiêu đề/nội dung,True
+S015,C000974,ThanhNien,Thế giới,Thế giới,correct,"Tổng thống Trump gặp riêng Tổng thống Putin, Chủ tịch Tập Cận Bình",Khớp nhãn nguồn sau kiểm tra tiêu đề/nội dung,True
+S016,C000990,ThanhNien,Thế giới,Thế giới,correct,Cuộc chiến Iran vào thế bế tắc nguy hiểm,Khớp nhãn nguồn sau kiểm tra tiêu đề/nội dung,True
+S017,C001057,DanTri,Thế giới,Giáo dục,corrected,Hàn Quốc treo thưởng 75.000 USD phát hiện gian lận thi cử bằng AI,"Chính sách thi cử Hàn Quốc; trọng tâm giáo dục, không phải thế giới.",False
+S018,C001052,DanTri,Thế giới,Thế giới,correct,Mỹ tái sử dụng đạn dược hết hạn trong cuộc chiến với Iran,Khớp nhãn nguồn sau kiểm tra tiêu đề/nội dung,True
+S019,C001226,VietnamNet,Thế giới,Thế giới,correct,Quy trình luận tội một bộ trưởng nội các Mỹ diễn ra như thế nào?,Khớp nhãn nguồn sau kiểm tra tiêu đề/nội dung,True
+S020,C001166,VietnamNet,Thế giới,Thế giới,correct,Iran công khai chi phí sản xuất UAV Shahed,Khớp nhãn nguồn sau kiểm tra tiêu đề/nội dung,True
+S021,C001641,VnExpress,Thể thao,Thể thao,correct,Neville khuyên Pochettino chỉ nhận lời Man Utd nếu được mua hai hậu vệ,Khớp nhãn nguồn sau kiểm tra tiêu đề/nội dung,True
+S022,C001531,VnExpress,Thể thao,Thể thao,correct,Arsenal ba lần chịu thiệt vì phạt đền ở Ngoại hạng Anh,Khớp nhãn nguồn sau kiểm tra tiêu đề/nội dung,True
+S023,C001674,TuoiTre,Thể thao,Thể thao,correct,"Sa sút sau vụ Himass - Tanvuu, PUBG 'cầu cứu' nhóm nhạc hot nhất Hàn Quốc",Khớp nhãn nguồn sau kiểm tra tiêu đề/nội dung,True
+S024,C001690,TuoiTre,Thể thao,Thể thao,correct,Top 5 đội hình đắt giá nhất U17 World Cup 2026: Đối thủ của Việt Nam xếp hạng mấy?,Khớp nhãn nguồn sau kiểm tra tiêu đề/nội dung,True
+S025,C001724,ThanhNien,Thể thao,Thể thao,correct,HLV Bỉ cảnh báo về U.17 Việt Nam trước trận ra quân World Cup,Khớp nhãn nguồn sau kiểm tra tiêu đề/nội dung,True
+S026,C001740,ThanhNien,Thể thao,Thể thao,correct,Tân binh đội tuyển Việt Nam lập siêu phẩm: CLB Công an TP.HCM thắng nghẹt thở Buriram United,Khớp nhãn nguồn sau kiểm tra tiêu đề/nội dung,True
+S027,C001801,DanTri,Thể thao,Thể thao,correct,"Tuyển Đức thắng đậm Hà Lan, lập kỷ lục trong lịch sử đối đầu",Khớp nhãn nguồn sau kiểm tra tiêu đề/nội dung,True
+S028,C001820,DanTri,Thể thao,Thể thao,correct,FIFA hai lần vinh danh tài năng trẻ U17 Việt Nam trước World Cup,Khớp nhãn nguồn sau kiểm tra tiêu đề/nội dung,True
+S029,C001989,VietnamNet,Thể thao,Thể thao,correct,"Kết quả bóng đá hôm nay 14/11/2026: Nhật Bản hạ Brazil, U23 Việt Nam vô địch",Khớp nhãn nguồn sau kiểm tra tiêu đề/nội dung,True
+S030,C002034,VietnamNet,Thể thao,Thể thao,correct,"Link xem trực tiếp bóng đá Việt Nam vs Đài Loan (Trung Quốc), 19h ngày 11/11",Khớp nhãn nguồn sau kiểm tra tiêu đề/nội dung,True
+S031,C002383,VnExpress,Pháp luật,Pháp luật,correct,Lĩnh án vì 14 lần 'thả tim' bài viết của bạn trai cũ,Khớp nhãn nguồn sau kiểm tra tiêu đề/nội dung,True
+S032,C002280,VnExpress,Pháp luật,Pháp luật,correct,Gây án mạng sau khi bị bắt quỳ xin lỗi,Khớp nhãn nguồn sau kiểm tra tiêu đề/nội dung,True
+S033,C002424,TuoiTre,Pháp luật,Pháp luật,correct,Tòa tuyên tử hình nam bác sĩ sát hại hai mẹ con người tình vì đòi chia tay,Khớp nhãn nguồn sau kiểm tra tiêu đề/nội dung,True
+S034,C002440,TuoiTre,Pháp luật,Pháp luật,correct,"Ông Lê Thanh Thản tính xây 50 tòa nhà, thu 10.000 tỉ đồng để bồi thường",Khớp nhãn nguồn sau kiểm tra tiêu đề/nội dung,True
+S035,C002474,ThanhNien,Pháp luật,Pháp luật,correct,"Từ 2027, công chứng nhà đất kết nối dữ liệu dân cư, đất đai, thuế giúp ngừa rủi ro",Khớp nhãn nguồn sau kiểm tra tiêu đề/nội dung,True
+S036,C002490,ThanhNien,Pháp luật,Pháp luật,correct,Ông Lê Thanh Thản đến tòa bằng xe sang,Khớp nhãn nguồn sau kiểm tra tiêu đề/nội dung,True
+S037,C002592,DanTri,Pháp luật,Pháp luật,correct,"Khởi tố nam cán bộ ngân hàng lừa người yêu gần 1,5 tỷ đồng",Khớp nhãn nguồn sau kiểm tra tiêu đề/nội dung,True
+S038,C002585,DanTri,Pháp luật,Pháp luật,correct,"Bị cáo mặc áo bệnh nhân, giả nằm viện Phổi Hà Nội khi công an đến kiểm tra",Khớp nhãn nguồn sau kiểm tra tiêu đề/nội dung,True
+S039,C002726,VietnamNet,Pháp luật,Pháp luật,correct,Shark Thủy bị đưa ra xét xử theo trình tự sơ thẩm,Khớp nhãn nguồn sau kiểm tra tiêu đề/nội dung,True
+S040,C002666,VietnamNet,Pháp luật,Pháp luật,correct,5 cựu cán bộ đường sắt lĩnh án tù vì chữ ký khống,Khớp nhãn nguồn sau kiểm tra tiêu đề/nội dung,True
+S041,C003125,VnExpress,Giáo dục,Giáo dục,correct,"4 tỉnh, thành xét học bạ vào lớp 10 năm 2027",Khớp nhãn nguồn sau kiểm tra tiêu đề/nội dung,True
+S042,C003120,VnExpress,Giáo dục,Giáo dục,correct,Lương giáo viên mới vào nghề chưa tới 8 triệu đồng,Khớp nhãn nguồn sau kiểm tra tiêu đề/nội dung,True
+S043,C003174,TuoiTre,Giáo dục,Giáo dục,correct,Chuyển trụ sở công phường Nhiêu Lộc thành trường mầm non,Khớp nhãn nguồn sau kiểm tra tiêu đề/nội dung,True
+S044,C003190,TuoiTre,Giáo dục,Giáo dục,correct,Bà nội rơi nước mắt khi thấy cháu nhận xe đạp trong lễ trao học bổng Gieo mầm tri thức,Khớp nhãn nguồn sau kiểm tra tiêu đề/nội dung,True
+S045,C003224,ThanhNien,Giáo dục,Giáo dục,correct,Bạn bè và tình cảm của thầy cô,Khớp nhãn nguồn sau kiểm tra tiêu đề/nội dung,True
+S046,C003240,ThanhNien,Giáo dục,Giáo dục,correct,Cô giáo Khmer đưa vật liệu nhà bếp lên bục giảng,Khớp nhãn nguồn sau kiểm tra tiêu đề/nội dung,True
+S047,C003342,DanTri,Giáo dục,Giáo dục,correct,Hai hiệu trưởng ở Huế bị khai trừ ra khỏi Đảng,Khớp nhãn nguồn sau kiểm tra tiêu đề/nội dung,True
+S048,C003334,DanTri,Giáo dục,Giáo dục,correct,"Tốn 200-300 triệu ""săn"" bằng cấp, chứng chỉ vẫn... sợ tiếng Anh",Khớp nhãn nguồn sau kiểm tra tiêu đề/nội dung,True
+S049,C003476,VietnamNet,Giáo dục,Giáo dục,correct,Phường ở TP Huế đồng ý cho một hiệu trưởng xin từ chức theo nguyện vọng,Khớp nhãn nguồn sau kiểm tra tiêu đề/nội dung,True
+S050,C003416,VietnamNet,Giáo dục,Công nghệ,corrected,Quỹ VinFuture công bố 8 hoạt động chính tại Tuần lễ KHCN 2026,Tuần lễ khoa học công nghệ VinFuture; không phải giáo dục.,False
+S051,C003891,VnExpress,Sức khỏe,Sức khỏe,correct,TP HCM sẽ kết nối các phòng xét nghiệm thành mạng lưới cảnh báo mầm bệnh,Khớp nhãn nguồn sau kiểm tra tiêu đề/nội dung,True
+S052,C003780,VnExpress,Sức khỏe,Sức khỏe,correct,Hơn 70 học sinh Đồng Nai nghi ngộ độc sau ăn cơm bán trú ở trường,Khớp nhãn nguồn sau kiểm tra tiêu đề/nội dung,True
+S053,C003943,TuoiTre,Sức khỏe,Sức khỏe,correct,"Thứ trưởng Bộ Y tế: Viện Pasteur TP.HCM tạo nền tảng quan trọng trong giám sát, cảnh báo và khống chế dịch",Khớp nhãn nguồn sau kiểm tra tiêu đề/nội dung,True
+S054,C003939,TuoiTre,Sức khỏe,Sức khỏe,correct,OUCRU và Bệnh viện Bệnh nhiệt đới TP.HCM tự hào về thành tựu thuốc điều trị sốt rét,Khớp nhãn nguồn sau kiểm tra tiêu đề/nội dung,True
+S055,C003993,ThanhNien,Sức khỏe,Sức khỏe,correct,"Đang uống thuốc huyết áp, nên thận trọng với 5 thực phẩm này",Khớp nhãn nguồn sau kiểm tra tiêu đề/nội dung,True
+S056,C003989,ThanhNien,Sức khỏe,Sức khỏe,correct,Phát hiện tác dụng mới bất ngờ từ cữ cà phê hằng ngày,Khớp nhãn nguồn sau kiểm tra tiêu đề/nội dung,True
+S057,C004051,DanTri,Sức khỏe,Sức khỏe,correct,Hà Nội có thêm trung tâm đào tạo hồi sức sơ sinh bằng công nghệ mô phỏng,Khớp nhãn nguồn sau kiểm tra tiêu đề/nội dung,True
+S058,C004070,DanTri,Sức khỏe,Sức khỏe,correct,Hiểm họa khi nhiều người bị nghẹt mũi tự ý mua kháng sinh uống,Khớp nhãn nguồn sau kiểm tra tiêu đề/nội dung,True
+S059,C004226,VietnamNet,Sức khỏe,Sức khỏe,correct,Bé trai nguy kịch vì uống nhầm thứ nước lạ đựng trong chai nước ngọt,Khớp nhãn nguồn sau kiểm tra tiêu đề/nội dung,True
+S060,C004166,VietnamNet,Sức khỏe,Sức khỏe,correct,Bác sĩ Bệnh viện Đại học Y Hà Nội tư vấn khi cần khám xoang,Khớp nhãn nguồn sau kiểm tra tiêu đề/nội dung,True
+S061,C004633,VnExpress,Công nghệ,Công nghệ,correct,"Đồng hồ trẻ em nhỏ gọn có gọi video, định vị GPS",Khớp nhãn nguồn sau kiểm tra tiêu đề/nội dung,True
+S062,C004554,VnExpress,Công nghệ,Công nghệ,correct,Loạt sản phẩm khoa học công nghệ tại triển lãm tăng trưởng xanh,Khớp nhãn nguồn sau kiểm tra tiêu đề/nội dung,True
+S063,C004674,TuoiTre,Công nghệ,Công nghệ,correct,Việt Nam là quốc gia duy nhất nhận giải thưởng Lãnh đạo Chính phủ 2026 của GSMA,Khớp nhãn nguồn sau kiểm tra tiêu đề/nội dung,True
+S064,C004690,TuoiTre,Công nghệ,Công nghệ,correct,"Hy Lạp đề xuất cấm trẻ dưới 15 tuổi dùng Instagram, TikTok, Facebook",Khớp nhãn nguồn sau kiểm tra tiêu đề/nội dung,True
+S065,C004724,ThanhNien,Công nghệ,Công nghệ,correct,"Tội phạm mạng dùng AI 'thay áo' kịch bản cũ, hack Zalo người dùng",Khớp nhãn nguồn sau kiểm tra tiêu đề/nội dung,True
+S066,C004740,ThanhNien,Công nghệ,Công nghệ,correct,Microsoft lên tiếng về nguyên nhân của sự cố mạng toàn cầu,Khớp nhãn nguồn sau kiểm tra tiêu đề/nội dung,True
+S067,C004801,DanTri,Công nghệ,DROP,drop,Kimberly Powell - nữ lãnh đạo Nvidia được nhắc tên cùng Jensen Huang là ai?,"Bài về đời tư lãnh đạo Nvidia, không thuộc 8 lĩnh vực; chất lượng thấp.",False
+S068,C004820,DanTri,Công nghệ,Công nghệ,correct,Mua laptop Dell chính hãng: Những lưu ý về quyền lợi bảo hành tận nơi,Khớp nhãn nguồn sau kiểm tra tiêu đề/nội dung,True
+S069,C004976,VietnamNet,Công nghệ,Công nghệ,correct,"Nếu là một nhân viên bình thường, Jensen Huang đã bị sa thải ngay lập tức",Khớp nhãn nguồn sau kiểm tra tiêu đề/nội dung,True
+S070,C004916,VietnamNet,Công nghệ,Thế giới,corrected,"Kamikaze USV của Indonesia xuất kích bí mật, định hình cục diện tác chiến phi đối xứng trên biển",USV quân sự Indonesia; chủ đề quốc phòng/quân sự.,False
+S071,C005390,VnExpress,Du lịch,Du lịch,correct,10 món súp ngon nhất Đông Nam Á,Khớp nhãn nguồn sau kiểm tra tiêu đề/nội dung,True
+S072,C005280,VnExpress,Du lịch,Du lịch,correct,"Doanh nghiệp kỳ vọng kết nối, thúc đẩy ngành du lịch từ Travel Awards",Khớp nhãn nguồn sau kiểm tra tiêu đề/nội dung,True
+S073,C005424,TuoiTre,Du lịch,Du lịch,correct,Bánh mì cua Cà Mau có gì lạ?,Khớp nhãn nguồn sau kiểm tra tiêu đề/nội dung,True
+S074,C005440,TuoiTre,Du lịch,Du lịch,correct,Vào nơi tạo hình Con đường lúa gạo ở miền Tây,Khớp nhãn nguồn sau kiểm tra tiêu đề/nội dung,True
+S075,C005474,ThanhNien,Du lịch,Du lịch,correct,Hải Phòng đặt mục tiêu thu 50.000 tỉ đồng từ du lịch vào năm 2030,Khớp nhãn nguồn sau kiểm tra tiêu đề/nội dung,True
+S076,C005490,ThanhNien,Du lịch,Du lịch,correct,"Lạng Sơn: Di tích động Nhị Thanh bị ô nhiễm, vắng khách",Khớp nhãn nguồn sau kiểm tra tiêu đề/nội dung,True
+S077,C005576,DanTri,Du lịch,DROP,drop,Loài cá ở biển sâu với đôi mắt có thể xoay bên trong chiếc đầu trong suốt,"Bài sinh vật biển sâu, không thuộc Du lịch hay 8 lĩnh vực.",False
+S078,C005595,DanTri,Du lịch,Du lịch,correct,"Khách sạn nằm trên đường tới Everest bốc cháy, khách bị cháy hộ chiếu",Khớp nhãn nguồn sau kiểm tra tiêu đề/nội dung,True
+S079,C005727,VietnamNet,Du lịch,Du lịch,correct,Những chuyện ít biết phía sau “kỳ quan hoang dã” Vinpearl Safari Phú Quốc,Khớp nhãn nguồn sau kiểm tra tiêu đề/nội dung,True
+S080,C005666,VietnamNet,Du lịch,Du lịch,correct,Cồng chiêng Tây Nguyên ở Đà Lạt níu chân du khách,Khớp nhãn nguồn sau kiểm tra tiêu đề/nội dung,True

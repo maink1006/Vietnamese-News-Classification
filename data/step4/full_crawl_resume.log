@@ -1,0 +1,209 @@
+Đã có 3355 bài thành công trong checkpoint. Còn 1845 bài.
+PROGRESS {"updated_at": "2026-11-20T15:22:57+07:00", "elapsed_seconds": 0.1, "total_candidates": 5200, "success": 3355, "success_this_run": 0, "failed_attempts_this_run": 0, "remaining": 1845, "requests_this_run": 0, "by_source_success": {"VnExpress": 989, "TuoiTre": 399, "ThanhNien": 398, "DanTri": 0, "VietnamNet": 1569}, "by_source_fail_this_run": {"VnExpress": 0, "TuoiTre": 0, "ThanhNien": 0, "DanTri": 0, "VietnamNet": 0}, "percent": 64.52}
+VnExpress: còn 211 bài, dùng 2 worker
+TuoiTre: còn 1 bài, dùng 1 worker
+ThanhNien: còn 2 bài, dùng 1 worker
+VietnamNet: còn 1631 bài, dùng 3 worker
+[FAIL] VnExpress C000137 200 parse: không tìm thấy khối nội dung
+[FAIL] VnExpress C000100 200 parse: nội dung quá ngắn (150 ký tự)
+[FAIL] VietnamNet C000459 200 parse: nội dung quá ngắn (0 ký tự)
+[FAIL] VietnamNet C000480 200 parse: nội dung quá ngắn (0 ký tự)
+[FAIL] VietnamNet C000435 200 parse: nội dung quá ngắn (0 ký tự)
+[FAIL] ThanhNien C000212 200 parse: nội dung quá ngắn (0 ký tự)
+[FAIL] TuoiTre C003919 200 parse: nội dung quá ngắn (107 ký tự)
+[DONE] TuoiTre-w0: success=0, fail=1
+[FAIL] VnExpress C000808 200 parse: nội dung quá ngắn (0 ký tự)
+[FAIL] VnExpress C000776 200 parse: nội dung quá ngắn (0 ký tự)
+[FAIL] VietnamNet C000676 200 parse: nội dung quá ngắn (0 ký tự)
+[FAIL] ThanhNien C003975 200 parse: nội dung quá ngắn (0 ký tự)
+[DONE] ThanhNien-w0: success=0, fail=2
+[FAIL] VietnamNet C000711 200 parse: nội dung quá ngắn (0 ký tự)
+[FAIL] VietnamNet C000645 200 parse: nội dung quá ngắn (0 ký tự)
+[FAIL] VnExpress C000874 200 parse: nội dung quá ngắn (0 ký tự)
+[FAIL] VnExpress C000838 200 parse: nội dung quá ngắn (0 ký tự)
+[FAIL] VietnamNet C001870 200 parse: nội dung quá ngắn (15 ký tự)
+[FAIL] VietnamNet C001901 200 parse: nội dung quá ngắn (32 ký tự)
+[FAIL] VietnamNet C000720 200 parse: nội dung quá ngắn (0 ký tự)
+[FAIL] VnExpress C003007 200 parse: nội dung quá ngắn (131 ký tự)
+[FAIL] VietnamNet C001920 200 parse: nội dung quá ngắn (22 ký tự)
+[FAIL] VietnamNet C001930 200 parse: nội dung quá ngắn (31 ký tự)
+[FAIL] VnExpress C001517 200 parse: nội dung quá ngắn (135 ký tự)
+[FAIL] VietnamNet C001902 200 parse: nội dung quá ngắn (20 ký tự)
+[FAIL] VnExpress C003022 200 parse: nội dung quá ngắn (133 ký tự)
+[FAIL] VnExpress C003015 200 parse: nội dung quá ngắn (136 ký tự)
+[FAIL] VietnamNet C001950 200 parse: nội dung quá ngắn (24 ký tự)
+[FAIL] VietnamNet C001951 200 parse: nội dung quá ngắn (20 ký tự)
+[FAIL] VietnamNet C001947 200 parse: nội dung quá ngắn (20 ký tự)
+[FAIL] VnExpress C003036 200 parse: nội dung quá ngắn (146 ký tự)
+[FAIL] VnExpress C003030 200 parse: nội dung quá ngắn (141 ký tự)
+[FAIL] VietnamNet C001967 200 parse: nội dung quá ngắn (28 ký tự)
+[FAIL] VietnamNet C001968 200 parse: nội dung quá ngắn (24 ký tự)
+[FAIL] VietnamNet C001960 200 parse: nội dung quá ngắn (9 ký tự)
+[FAIL] VnExpress C003050 200 parse: nội dung quá ngắn (134 ký tự)
+[FAIL] VnExpress C003041 200 parse: nội dung quá ngắn (152 ký tự)
+[FAIL] VietnamNet C001992 200 parse: nội dung quá ngắn (31 ký tự)
+[FAIL] VietnamNet C001996 200 parse: nội dung quá ngắn (16 ký tự)
+[FAIL] VietnamNet C001991 200 parse: nội dung quá ngắn (20 ký tự)
+[FAIL] VnExpress C003065 200 parse: nội dung quá ngắn (120 ký tự)
+[FAIL] VnExpress C003058 200 parse: nội dung quá ngắn (177 ký tự)
+[FAIL] VietnamNet C002002 200 parse: nội dung quá ngắn (24 ký tự)
+[FAIL] VietnamNet C002005 200 parse: nội dung quá ngắn (29 ký tự)
+[FAIL] VietnamNet C002001 200 parse: nội dung quá ngắn (20 ký tự)
+[FAIL] VnExpress C003090 200 parse: nội dung quá ngắn (151 ký tự)
+[FAIL] VnExpress C003082 200 parse: nội dung quá ngắn (142 ký tự)
+[FAIL] VietnamNet C002091 200 parse: nội dung quá ngắn (12 ký tự)
+[FAIL] VietnamNet C002132 200 parse: nội dung quá ngắn (139 ký tự)
+[FAIL] VietnamNet C002050 200 parse: nội dung quá ngắn (8 ký tự)
+[FAIL] VnExpress C003101 200 parse: nội dung quá ngắn (171 ký tự)
+[FAIL] VnExpress C003095 200 parse: nội dung quá ngắn (145 ký tự)
+[FAIL] VietnamNet C002137 200 parse: nội dung quá ngắn (127 ký tự)
+[FAIL] VietnamNet C002133 200 parse: nội dung quá ngắn (127 ký tự)
+[FAIL] VietnamNet C002189 200 parse: nội dung quá ngắn (27 ký tự)
+[FAIL] VnExpress C003122 200 parse: nội dung quá ngắn (124 ký tự)
+[FAIL] VnExpress C003112 200 parse: nội dung quá ngắn (140 ký tự)
+[FAIL] VietnamNet C002194 200 parse: nội dung quá ngắn (20 ký tự)
+[FAIL] VnExpress C003150 200 parse: nội dung quá ngắn (129 ký tự)
+[FAIL] VietnamNet C002190 200 parse: nội dung quá ngắn (26 ký tự)
+[FAIL] VietnamNet C002195 200 parse: nội dung quá ngắn (34 ký tự)
+[FAIL] VnExpress C003131 200 parse: nội dung quá ngắn (140 ký tự)
+[FAIL] VnExpress C004596 200 parse: nội dung quá ngắn (190 ký tự)
+[FAIL] VietnamNet C002199 200 parse: nội dung quá ngắn (204 ký tự)
+[FAIL] VnExpress C003878 200 parse: nội dung quá ngắn (139 ký tự)
+[FAIL] VnExpress C004600 200 parse: nội dung quá ngắn (216 ký tự)
+[FAIL] VnExpress C004649 200 parse: nội dung quá ngắn (193 ký tự)
+[VietnamNet-w1] success=25/544
+[VietnamNet-w2] success=25/543
+[VietnamNet-w0] success=25/544
+[VnExpress-w1] success=25/105
+[VnExpress-w0] success=25/106
+[VietnamNet-w1] success=50/544
+[VietnamNet-w2] success=50/543
+[VietnamNet-w0] success=50/544
+[VnExpress-w1] success=50/105
+[VnExpress-w0] success=50/106
+[VietnamNet-w1] success=75/544
+[VietnamNet-w0] success=75/544
+[VietnamNet-w2] success=75/543
+[VnExpress-w1] success=75/105
+[VnExpress-w0] success=75/106
+[VietnamNet-w1] success=100/544
+[VietnamNet-w0] success=100/544
+[VietnamNet-w2] success=100/543
+[DONE] VnExpress-w1: success=91, fail=14
+[FAIL] VnExpress C005396 200 parse: nội dung quá ngắn (163 ký tự)
+[DONE] VnExpress-w0: success=91, fail=15
+[VietnamNet-w1] success=125/544
+[VietnamNet-w2] success=125/543
+[VietnamNet-w0] success=125/544
+[VietnamNet-w1] success=150/544
+[VietnamNet-w2] success=150/543
+[VietnamNet-w0] success=150/544
+[VietnamNet-w1] success=175/544
+[VietnamNet-w0] success=175/544
+[VietnamNet-w2] success=175/543
+[VietnamNet-w1] success=200/544
+[VietnamNet-w0] success=200/544
+[VietnamNet-w2] success=200/543
+[VietnamNet-w1] success=225/544
+[VietnamNet-w2] success=225/543
+[VietnamNet-w0] success=225/544
+[VietnamNet-w1] success=250/544
+[VietnamNet-w0] success=250/544
+[VietnamNet-w2] success=250/543
+[VietnamNet-w1] success=275/544
+[VietnamNet-w0] success=275/544
+[VietnamNet-w2] success=275/543
+[VietnamNet-w1] success=300/544
+[VietnamNet-w0] success=300/544
+[VietnamNet-w2] success=300/543
+[VietnamNet-w1] success=325/544
+[VietnamNet-w0] success=325/544
+[VietnamNet-w2] success=325/543
+[VietnamNet-w1] success=350/544
+[VietnamNet-w0] success=350/544
+[VietnamNet-w2] success=350/543
+[VietnamNet-w1] success=375/544
+[VietnamNet-w0] success=375/544
+[VietnamNet-w2] success=375/543
+[VietnamNet-w1] success=400/544
+[VietnamNet-w0] success=400/544
+[VietnamNet-w2] success=400/543
+[VietnamNet-w1] success=425/544
+[VietnamNet-w0] success=425/544
+[VietnamNet-w2] success=425/543
+[FAIL] VietnamNet C005715 200 parse: nội dung quá ngắn (0 ký tự)
+[FAIL] VietnamNet C005739 200 parse: nội dung quá ngắn (155 ký tự)
+[VietnamNet-w0] success=450/544
+[VietnamNet-w1] success=450/544
+[VietnamNet-w2] success=450/543
+[VietnamNet-w0] success=475/544
+[VietnamNet-w1] success=475/544
+[VietnamNet-w2] success=475/543
+[VietnamNet-w0] success=500/544
+[VietnamNet-w1] success=500/544
+[VietnamNet-w2] success=500/543
+[VietnamNet-w0] success=525/544
+[VietnamNet-w1] success=525/544
+[VietnamNet-w2] success=525/543
+[DONE] VietnamNet-w1: success=531, fail=13
+[DONE] VietnamNet-w0: success=532, fail=12
+[DONE] VietnamNet-w2: success=532, fail=11
+PROGRESS {"updated_at": "2026-11-20T15:36:57+07:00", "elapsed_seconds": 839.9, "total_candidates": 5200, "success": 5132, "success_this_run": 1777, "failed_attempts_this_run": 68, "remaining": 68, "requests_this_run": 1845, "by_source_success": {"VnExpress": 1171, "TuoiTre": 399, "ThanhNien": 398, "DanTri": 0, "VietnamNet": 3164}, "by_source_fail_this_run": {"VnExpress": 29, "TuoiTre": 1, "ThanhNien": 2, "DanTri": 0, "VietnamNet": 36}, "percent": 98.69}
+DONE
+{
+  "finished_at": "2026-11-20T15:36:57+07:00",
+  "total_candidates": 5200,
+  "success": 5132,
+  "failed": 68,
+  "not_attempted": 0,
+  "success_rate_pct": 98.69,
+  "content_length_min": 395,
+  "content_length_max": 34096,
+  "content_length_mean": 3285.5,
+  "missing_published_date": 0,
+  "missing_author": 947,
+  "exact_content_duplicate_groups": 1,
+  "same_title_groups": 3,
+  "by_source": [
+    {
+      "Source": "DanTri",
+      "Target": 0,
+      "Success": 0,
+      "Failed": 0,
+      "Not_Attempted": 0,
+      "Success_Rate_Pct": NaN
+    },
+    {
+      "Source": "ThanhNien",
+      "Target": 400,
+      "Success": 398,
+      "Failed": 2,
+      "Not_Attempted": 0,
+      "Success_Rate_Pct": 99.5
+    },
+    {
+      "Source": "TuoiTre",
+      "Target": 400,
+      "Success": 399,
+      "Failed": 1,
+      "Not_Attempted": 0,
+      "Success_Rate_Pct": 99.75
+    },
+    {
+      "Source": "VietnamNet",
+      "Target": 3200,
+      "Success": 3164,
+      "Failed": 36,
+      "Not_Attempted": 0,
+      "Success_Rate_Pct": 98.88
+    },
+    {
+      "Source": "VnExpress",
+      "Target": 1200,
+      "Success": 1171,
+      "Failed": 29,
+      "Not_Attempted": 0,
+      "Success_Rate_Pct": 97.58
+    }
+  ]
+}

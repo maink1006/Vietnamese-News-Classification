@@ -1,0 +1,9 @@
+﻿Label,N,Correct_Pre,Accuracy_Pre_Pct,Corrected,Dropped,Reviewed_Valid
+Công nghệ,10,8,80.0,1,1,9
+Du lịch,10,9,90.0,0,1,9
+Giáo dục,10,9,90.0,1,0,10
+Kinh tế,10,10,100.0,0,0,10
+Pháp luật,10,10,100.0,0,0,10
+Sức khỏe,10,10,100.0,0,0,10
+Thế giới,10,8,80.0,2,0,10
+Thể thao,10,10,100.0,0,0,10

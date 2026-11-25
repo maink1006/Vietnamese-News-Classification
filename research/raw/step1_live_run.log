@@ -1,0 +1,93 @@
+[robots] VnExpress  HTTP 200
+[sitemap] VnExpress HTTP 200 children=9468
+[robots] TuoiTre    HTTP 200
+[sitemap] TuoiTre   HTTP 200 children=1144
+[robots] ThanhNien  HTTP 200
+[sitemap] ThanhNien HTTP 200 children=1117
+[robots] DanTri     HTTP 200
+[sitemap] DanTri    HTTP 200 children=487
+[robots] VietnamNet HTTP 200
+[sitemap] VietnamNet HTTP 200 children=1523
+[rss] VnExpress  Kinh tế    HTTP 200 items=60
+[cat] VnExpress  Kinh tế    HTTP 200 articles≈50
+[rss] TuoiTre    Kinh tế    HTTP 200 items=50
+[cat] TuoiTre    Kinh tế    HTTP 200 articles≈14
+[rss] ThanhNien  Kinh tế    HTTP 200 items=50
+[cat] ThanhNien  Kinh tế    HTTP 200 articles≈53
+[rss] DanTri     Kinh tế    HTTP 200 items=100
+[cat] DanTri     Kinh tế    HTTP 200 articles≈50
+[rss] VietnamNet Kinh tế    HTTP 200 items=1000
+[cat] VietnamNet Kinh tế    HTTP 200 articles≈31
+[rss] VnExpress  Thế giới   HTTP 200 items=60
+[cat] VnExpress  Thế giới   HTTP 200 articles≈46
+[rss] TuoiTre    Thế giới   HTTP 200 items=50
+[cat] TuoiTre    Thế giới   HTTP 200 articles≈21
+[rss] ThanhNien  Thế giới   HTTP 200 items=50
+[cat] ThanhNien  Thế giới   HTTP 200 articles≈57
+[rss] DanTri     Thế giới   HTTP 200 items=100
+[cat] DanTri     Thế giới   HTTP 200 articles≈39
+[rss] VietnamNet Thế giới   HTTP 200 items=1000
+[cat] VietnamNet Thế giới   HTTP 200 articles≈31
+[rss] VnExpress  Thể thao   HTTP 200 items=60
+[cat] VnExpress  Thể thao   HTTP 200 articles≈46
+[rss] TuoiTre    Thể thao   HTTP 200 items=50
+[cat] TuoiTre    Thể thao   HTTP 200 articles≈38
+[rss] ThanhNien  Thể thao   HTTP 200 items=50
+[cat] ThanhNien  Thể thao   HTTP 200 articles≈58
+[rss] DanTri     Thể thao   HTTP 200 items=100
+[cat] DanTri     Thể thao   HTTP 200 articles≈52
+[rss] VietnamNet Thể thao   HTTP 200 items=1000
+[cat] VietnamNet Thể thao   HTTP 200 articles≈31
+[rss] VnExpress  Pháp luật  HTTP 200 items=60
+[cat] VnExpress  Pháp luật  HTTP 200 articles≈47
+[rss] TuoiTre    Pháp luật  HTTP 200 items=50
+[cat] TuoiTre    Pháp luật  HTTP 200 articles≈18
+[rss] ThanhNien  Pháp luật  HTTP 200 items=50
+[cat] ThanhNien  Pháp luật  HTTP 200 articles≈62
+[rss] DanTri     Pháp luật  HTTP 200 items=100
+[cat] DanTri     Pháp luật  HTTP 200 articles≈35
+[rss] VietnamNet Pháp luật  HTTP 200 items=1000
+[cat] VietnamNet Pháp luật  HTTP 200 articles≈31
+[rss] VnExpress  Giáo dục   HTTP 200 items=60
+[cat] VnExpress  Giáo dục   HTTP 200 articles≈52
+[rss] TuoiTre    Giáo dục   HTTP 200 items=50
+[cat] TuoiTre    Giáo dục   HTTP 200 articles≈23
+[rss] ThanhNien  Giáo dục   HTTP 200 items=50
+[cat] ThanhNien  Giáo dục   HTTP 200 articles≈75
+[rss] DanTri     Giáo dục   HTTP 200 items=100
+[cat] DanTri     Giáo dục   HTTP 200 articles≈58
+[rss] VietnamNet Giáo dục   HTTP 200 items=1000
+[cat] VietnamNet Giáo dục   HTTP 200 articles≈31
+[rss] VnExpress  Sức khỏe   HTTP 200 items=60
+[cat] VnExpress  Sức khỏe   HTTP 200 articles≈50
+[rss] TuoiTre    Sức khỏe   HTTP 200 items=50
+[cat] TuoiTre    Sức khỏe   HTTP 200 articles≈22
+[rss] ThanhNien  Sức khỏe   HTTP 200 items=50
+[cat] ThanhNien  Sức khỏe   HTTP 200 articles≈71
+[rss] DanTri     Sức khỏe   HTTP 200 items=100
+[cat] DanTri     Sức khỏe   HTTP 200 articles≈66
+[rss] VietnamNet Sức khỏe   HTTP 200 items=1000
+[cat] VietnamNet Sức khỏe   HTTP 200 articles≈31
+[rss] VnExpress  Công nghệ  HTTP 200 items=60
+[cat] VnExpress  Công nghệ  HTTP 200 articles≈48
+[rss] TuoiTre    Công nghệ  HTTP 200 items=50
+[cat] TuoiTre    Công nghệ  HTTP 200 articles≈31
+[rss] ThanhNien  Công nghệ  HTTP 200 items=50
+[cat] ThanhNien  Công nghệ  HTTP 200 articles≈61
+[rss] DanTri     Công nghệ  HTTP 200 items=100
+[cat] DanTri     Công nghệ  HTTP 200 articles≈35
+[rss] VietnamNet Công nghệ  HTTP 200 items=36
+[cat] VietnamNet Công nghệ  HTTP 200 articles≈31
+[rss] VnExpress  Du lịch    HTTP 200 items=60
+[cat] VnExpress  Du lịch    HTTP 200 articles≈64
+[rss] TuoiTre    Du lịch    HTTP 200 items=50
+[cat] TuoiTre    Du lịch    HTTP 200 articles≈21
+[rss] ThanhNien  Du lịch    HTTP 200 items=50
+[cat] ThanhNien  Du lịch    HTTP 200 articles≈48
+[rss] DanTri     Du lịch    HTTP 200 items=100
+[cat] DanTri     Du lịch    HTTP 200 articles≈44
+[rss] VietnamNet Du lịch    HTTP 200 items=1000
+[cat] VietnamNet Du lịch    HTTP 200 articles≈31
+
+Đã lưu 40 dòng vào /Users/mainguyen/Documents/Deepseek Harness/vn_news_classification/outputs/step1_source_audit.csv
+Lưu ý: quota là số URL ứng viên, không phải số bài hợp lệ.

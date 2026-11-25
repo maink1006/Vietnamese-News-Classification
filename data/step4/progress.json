@@ -1,0 +1,25 @@
+{
+  "updated_at": "2026-11-20T21:09:56+07:00",
+  "elapsed_seconds": 902.7,
+  "total_candidates": 6000,
+  "success": 5915,
+  "success_this_run": 551,
+  "failed_attempts_this_run": 85,
+  "remaining": 85,
+  "requests_this_run": 636,
+  "by_source_success": {
+    "VnExpress": 1171,
+    "TuoiTre": 399,
+    "ThanhNien": 398,
+    "DanTri": 783,
+    "VietnamNet": 3164
+  },
+  "by_source_fail_this_run": {
+    "VnExpress": 29,
+    "TuoiTre": 1,
+    "ThanhNien": 2,
+    "DanTri": 17,
+    "VietnamNet": 36
+  },
+  "percent": 98.58
+}

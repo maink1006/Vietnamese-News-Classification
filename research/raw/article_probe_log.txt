@@ -1,0 +1,318 @@
+{
+  "site": "VnExpress",
+  "url": "https://vnexpress.net/moi-luong-vang-mieng-giam-toi-4-trieu-dong-5146938.html",
+  "status": 200,
+  "final_url": "https://vnexpress.net/moi-luong-vang-mieng-giam-toi-4-trieu-dong-5146938.html",
+  "bytes": 263473,
+  "content_type": "text/html; charset=utf-8",
+  "title_tag": "Giá vàng hôm nay: Mỗi lượng vàng miếng giảm mạnh tới 4 triệu đồng",
+  "h1": "Mỗi lượng vàng miếng giảm tới 4 triệu đồng",
+  "meta": {
+    "og:title": "Mỗi lượng vàng miếng giảm tới 4 triệu đồng",
+    "author": "VnExpress",
+    "description": "Giá vàng hôm nay: SJC sáng nay hạ mạnh 4 triệu đồng chiều mua vào từ người dân trong khi chiều bán ra giảm 2 triệu, xuống 134 triệu đồng mỗi lượng vàng miếng. "
+  },
+  "jsonld_count": 1,
+  "jsonld_types": [
+    "NewsArticle",
+    "WebPage",
+    "ImageObject",
+    [
+      "Organization",
+      "NewsMediaOrganization"
+    ],
+    "ImageObject",
+    "SpeakableSpecification",
+    "BreadcrumbList",
+    "ListItem",
+    "ListItem",
+    "ListItem"
+  ],
+  "largest_blocks": [
+    {
+      "tag": "div",
+      "class": "container detail-new",
+      "id": null,
+      "text_len": 2645,
+      "p_count": 0
+    },
+    {
+      "tag": "div",
+      "class": "sidebar-1",
+      "id": null,
+      "text_len": 2624,
+      "p_count": 0
+    },
+    {
+      "tag": "article",
+      "class": "fck_detail",
+      "id": null,
+      "text_len": 1924,
+      "p_count": 12
+    }
+  ],
+  "body_text_chars": 2968,
+  "paragraphs_total": 14
+}
+{
+  "site": "TuoiTre",
+  "url": "https://tuoitre.vn/el-nino-bai-toan-nuoc-va-nguoi-dan-biet-bien-nguy-thanh-co-100261116112948918.htm",
+  "error": "ChunkedEncodingError(ProtocolError(\"Connection broken: InvalidChunkLength(got length b'', 0 bytes read)\", InvalidChunkLength(got length b'', 0 bytes read)))"
+}
+{
+  "site": "ThanhNien",
+  "url": "https://thanhnien.vn/nang-nong-gay-gat-tphcm-va-nam-bo-da-vao-mua-kho-chua-185261120113405183.htm",
+  "status": 200,
+  "final_url": "https://thanhnien.vn/nang-nong-gay-gat-tphcm-va-nam-bo-da-vao-mua-kho-chua-185261120113405183.htm",
+  "bytes": 345759,
+  "content_type": "text/html; charset=utf-8",
+  "title_tag": "Nắng nóng gay gắt, TP.HCM và Nam bộ đã vào mùa khô chưa?",
+  "h1": "Nắng nóng gay gắt, TP.HCM và Nam bộ đã vào mùa khô chưa?",
+  "meta": {
+    "og:title": "Nắng nóng gay gắt, TP.HCM và Nam bộ đã vào mùa khô chưa?",
+    "article:published_time": "2026-11-20T12:00:00+07:00",
+    "author": "thanhnien.vn",
+    "description": "Thời tiết TP.HCM những ngày qua rất oi bức và nắng nóng gay gắt khiến nhiều người tự hỏi Nam bộ đã vào mùa khô chưa, mưa sẽ còn xuất hiện?"
+  },
+  "jsonld_count": 3,
+  "jsonld_types": [
+    "NewsArticle",
+    "WebPage",
+    "SpeakableSpecification",
+    "ImageObject",
+    "Person",
+    "NewsMediaOrganization",
+    "ImageObject",
+    "BreadcrumbList",
+    "ListItem",
+    "ListItem",
+    "ListItem",
+    "NewsMediaOrganization",
+    "ImageObject",
+    "ContactPoint",
+    "PostalAddress"
+  ],
+  "largest_blocks": [
+    {
+      "tag": "div",
+      "class": "",
+      "id": "admWrapsite",
+      "text_len": 5493,
+      "p_count": 0
+    },
+    {
+      "tag": "div",
+      "class": "",
+      "id": "content",
+      "text_len": 4054,
+      "p_count": 0
+    },
+    {
+      "tag": "div",
+      "class": "detail__section",
+      "id": null,
+      "text_len": 4054,
+      "p_count": 0
+    },
+    {
+      "tag": "div",
+      "class": "container",
+      "id": null,
+      "text_len": 4054,
+      "p_count": 0
+    },
+    {
+      "tag": "div",
+      "class": "detail__flex",
+      "id": null,
+      "text_len": 4054,
+      "p_count": 0
+    },
+    {
+      "tag": "div",
+      "class": "detail__main",
+      "id": null,
+      "text_len": 4054,
+      "p_count": 0
+    },
+    {
+      "tag": "article",
+      "class": "detail__cmain",
+      "id": null,
+      "text_len": 4054,
+      "p_count": 0
+    },
+    {
+      "tag": "div",
+      "class": "detail__cmain-flex",
+      "id": null,
+      "text_len": 3976,
+      "p_count": 0
+    }
+  ],
+  "body_text_chars": 5550,
+  "paragraphs_total": 22
+}
+{
+  "site": "DanTri",
+  "url": "https://dantri.com.vn/kinh-doanh/4-ngan-hang-co-lai-suat-cho-vay-binh-quan-vuot-11nam-20261120110325612.htm",
+  "status": 200,
+  "final_url": "https://dantri.com.vn/kinh-doanh/4-ngan-hang-co-lai-suat-cho-vay-binh-quan-vuot-11nam-20261120110325612.htm",
+  "bytes": 541560,
+  "content_type": "text/html; charset=utf-8",
+  "title_tag": "4 ngân hàng có lãi suất cho vay bình quân vượt 11%/năm | Báo Dân trí",
+  "h1": "4 ngân hàng có lãi suất cho vay bình quân vượt 11%/năm",
+  "meta": {
+    "og:title": "4 ngân hàng có lãi suất cho vay bình quân vượt 11%/năm",
+    "author": "Dân trí",
+    "description": "(Dân trí) - Trong tháng 10, có 4 ngân hàng công bố lãi suất cho vay bình quân trên 11%/năm, tăng 3 đơn vị so với tháng trước."
+  },
+  "jsonld_count": 3,
+  "jsonld_types": [
+    "BreadcrumbList",
+    "ListItem",
+    "ListItem",
+    "ListItem",
+    "NewsArticle",
+    "WebPage",
+    "ImageObject",
+    "CollectionPage",
+    "Person",
+    "Organization",
+    "Organization",
+    "ImageObject",
+    [
+      "Organization",
+      "NewsMediaOrganization"
+    ],
+    "PostalAddress",
+    "ContactPoint"
+  ],
+  "largest_blocks": [
+    {
+      "tag": "div",
+      "class": "dt-flex dt-flex-col dt-space-y-6",
+      "id": null,
+      "text_len": 4083,
+      "p_count": 0
+    },
+    {
+      "tag": "article",
+      "class": "dt-flex dt-flex-col dt-gap-6",
+      "id": "articleContent",
+      "text_len": 3029,
+      "p_count": 0
+    },
+    {
+      "tag": "div",
+      "class": "",
+      "id": "desktop-in-article",
+      "text_len": 2839,
+      "p_count": 15
+    },
+    {
+      "tag": "div",
+      "class": "nf-wrap container dt-gap-[40px] dt-justify-between",
+      "id": null,
+      "text_len": 1920,
+      "p_count": 0
+    },
+    {
+      "tag": "div",
+      "class": "dt-p-6 dt-bg-common-background",
+      "id": null,
+      "text_len": 917,
+      "p_count": 0
+    }
+  ],
+  "body_text_chars": 8837,
+  "paragraphs_total": 16
+}
+{
+  "site": "VietnamNet",
+  "url": "https://vietnamnet.vn/lai-suat-ngan-hang-hom-nay-gui-100-trieu-nhan-ve-8-8-trieu-2576993.html",
+  "status": 200,
+  "final_url": "https://vietnamnet.vn/lai-suat-ngan-hang-hom-nay-gui-100-trieu-nhan-ve-8-8-trieu-2576993.html",
+  "bytes": 149410,
+  "content_type": "text/html; charset=UTF-8",
+  "title_tag": "Lãi suất ngân hàng hôm nay: Gửi 100 triệu, nhận về 8,8 triệu",
+  "h1": "Lãi suất ngân hàng hôm nay 20/11: Mua 100 triệu chứng chỉ tiền gửi, nhận về 8,8 triệu",
+  "meta": {
+    "og:title": "Lãi suất ngân hàng hôm nay 20/11: Mua 100 triệu chứng chỉ tiền gửi, nhận về 8,8 triệu",
+    "author": "VietNamNet News",
+    "description": "Lãi suất ngân hàng hôm nay, 20/11/2026, với 100 triệu đồng mua chứng chỉ tiền gửi, sau 12 tháng khách hàng sẽ nhận về 8,8 triệu đồng tiền lãi."
+  },
+  "jsonld_count": 2,
+  "jsonld_types": [
+    "BreadcrumbList",
+    "ListItem",
+    "ListItem",
+    "ListItem",
+    "NewsArticle",
+    "WebPage",
+    "ImageObject",
+    "Person",
+    "Organization",
+    "ImageObject"
+  ],
+  "largest_blocks": [
+    {
+      "tag": "div",
+      "class": "wrapper",
+      "id": null,
+      "text_len": 8552,
+      "p_count": 0
+    },
+    {
+      "tag": "div",
+      "class": "main-v1 bg-white",
+      "id": null,
+      "text_len": 5019,
+      "p_count": 0
+    },
+    {
+      "tag": "div",
+      "class": "container-v1 detail-page gap-40",
+      "id": null,
+      "text_len": 4678,
+      "p_count": 0
+    },
+    {
+      "tag": "div",
+      "class": "container__left not-pl",
+      "id": null,
+      "text_len": 4678,
+      "p_count": 0
+    },
+    {
+      "tag": "div",
+      "class": "content-detail content-detail-type-1 content-mobile-change",
+      "id": null,
+      "text_len": 4474,
+      "p_count": 0
+    },
+    {
+      "tag": "div",
+      "class": "maincontent main-content",
+      "id": "maincontent",
+      "text_len": 4065,
+      "p_count": 13
+    },
+    {
+      "tag": "div",
+      "class": "wrapNav nav-warpper togglePinTop",
+      "id": null,
+      "text_len": 2455,
+      "p_count": 0
+    },
+    {
+      "tag": "div",
+      "class": "mainHamburger",
+      "id": null,
+      "text_len": 1151,
+      "p_count": 0
+    }
+  ],
+  "body_text_chars": 8613,
+  "paragraphs_total": 16
+}

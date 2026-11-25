@@ -1,0 +1,33 @@
+﻿Check,Pass,Detail
+Step3 6000,True,6000
+Step3 unique URL,True,6000
+Step3 750/label,True,"{'Công nghệ': 750, 'Du lịch': 750, 'Giáo dục': 750, 'Kinh tế': 750, 'Pháp luật': 750, 'Sức khỏe': 750, 'Thế giới': 750, 'Thể thao': 750}"
+Step4 counted,True,5915+85+0
+Step4 no unattempted,True,0
+Step4 IDs subset Step3,True,0
+Final = Step4 - invalid - drops,True,5915-12-5=5898
+Final unique ID,True,5898
+Final unique URL,True,5898
+Final 8 labels,True,"['Công nghệ', 'Du lịch', 'Giáo dục', 'Kinh tế', 'Pháp luật', 'Sức khỏe', 'Thế giới', 'Thể thao']"
+Final >=500/label,True,"{'Công nghệ': 664, 'Du lịch': 746, 'Giáo dục': 727, 'Kinh tế': 740, 'Pháp luật': 746, 'Sức khỏe': 750, 'Thế giới': 810, 'Thể thao': 715}"
+No Author column,True,"['ID', 'Title', 'Content', 'URL', 'Source', 'Published_Date', 'Date_Source', 'Date_Check', 'Original_Category', 'Label', 'Content_Length', 'Label_Status', 'Leakage_Group', 'Split']"
+No missing date,True,0
+All labels corrected in file,True,
+Corrections applied,True,88
+5 drops,True,5
+No exact content dup,True,0
+5 same-title groups,True,5
+Near duplicate pairs,True,17
+Leakage groups intact,True,1
+Split sums,True,"{'train': 4129, 'val': 886, 'test': 883}"
+Split ratio ~70/15/15,True,"{'train': 0.7001, 'val': 0.1502, 'test': 0.1497}"
+Label sample 80,True,80
+Label sample pre accuracy,True,92.5
+Label sample reviewed 78/78,True,"[78, 78]"
+Date corrected 32,True,32
+Date diff >24h,True,313
+Content min 500,True,501
+Content raw no delete,True,5915
+Input file exists,True,
+Raw Step4 exists,True,
+No final training,True,

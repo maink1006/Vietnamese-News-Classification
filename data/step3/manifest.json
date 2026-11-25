@@ -1,0 +1,121 @@
+{
+  "generated_at": "2026-11-20T14:40:00+07:00",
+  "plan_rows": 40,
+  "primary_tasks": 87,
+  "fallback_tasks": 17,
+  "tasks_total": 104,
+  "cache_hits": 104,
+  "fetched": 0,
+  "errors": 0,
+  "errors_detail": [],
+  "article_content_requests": 0,
+  "network_requests": 0,
+  "raw_records_including_rss_enrichment": 11388,
+  "unique_urls_after_dedupe": 10609,
+  "boilerplate_or_bad_metadata_dropped": 50,
+  "selected": 6000,
+  "unique_final_urls": 6000,
+  "by_collection_method": {
+    "rss": 4395,
+    "category": 1605
+  },
+  "by_collection_detail": {
+    "rss": 4395,
+    "category_primary": 1599,
+    "category_fallback": 6
+  },
+  "target": 6000,
+  "gap_total": 0,
+  "duplicate_url_cases": 20,
+  "potential_title_duplicate_cases": 6,
+  "by_label": [
+    {
+      "Label": "Kinh tế",
+      "VnExpress": 150,
+      "TuoiTre": 50,
+      "ThanhNien": 50,
+      "DanTri": 100,
+      "VietnamNet": 400,
+      "Total": 750,
+      "Target": 750,
+      "Gap": 0
+    },
+    {
+      "Label": "Thế giới",
+      "VnExpress": 150,
+      "TuoiTre": 50,
+      "ThanhNien": 50,
+      "DanTri": 100,
+      "VietnamNet": 400,
+      "Total": 750,
+      "Target": 750,
+      "Gap": 0
+    },
+    {
+      "Label": "Thể thao",
+      "VnExpress": 150,
+      "TuoiTre": 50,
+      "ThanhNien": 50,
+      "DanTri": 100,
+      "VietnamNet": 400,
+      "Total": 750,
+      "Target": 750,
+      "Gap": 0
+    },
+    {
+      "Label": "Pháp luật",
+      "VnExpress": 150,
+      "TuoiTre": 50,
+      "ThanhNien": 50,
+      "DanTri": 100,
+      "VietnamNet": 400,
+      "Total": 750,
+      "Target": 750,
+      "Gap": 0
+    },
+    {
+      "Label": "Giáo dục",
+      "VnExpress": 150,
+      "TuoiTre": 50,
+      "ThanhNien": 50,
+      "DanTri": 100,
+      "VietnamNet": 400,
+      "Total": 750,
+      "Target": 750,
+      "Gap": 0
+    },
+    {
+      "Label": "Sức khỏe",
+      "VnExpress": 150,
+      "TuoiTre": 50,
+      "ThanhNien": 50,
+      "DanTri": 100,
+      "VietnamNet": 400,
+      "Total": 750,
+      "Target": 750,
+      "Gap": 0
+    },
+    {
+      "Label": "Công nghệ",
+      "VnExpress": 150,
+      "TuoiTre": 50,
+      "ThanhNien": 50,
+      "DanTri": 100,
+      "VietnamNet": 400,
+      "Total": 750,
+      "Target": 750,
+      "Gap": 0
+    },
+    {
+      "Label": "Du lịch",
+      "VnExpress": 150,
+      "TuoiTre": 50,
+      "ThanhNien": 50,
+      "DanTri": 100,
+      "VietnamNet": 400,
+      "Total": 750,
+      "Target": 750,
+      "Gap": 0
+    }
+  ]
+}

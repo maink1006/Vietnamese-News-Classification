@@ -1,0 +1,1016 @@
+{
+  "articles_step4": 5915,
+  "content_valid_after_clean": 5903,
+  "content_invalid_dropped": 12,
+  "label_drops": 5,
+  "final_valid": 5898,
+  "length_min": 501,
+  "length_max": 34075,
+  "length_mean": 3279.3,
+  "short_500_650": 13,
+  "long_over_10000": 30,
+  "missing_date": 0,
+  "missing_author_column": 0,
+  "date_corrected": 32,
+  "exact_content_duplicate_groups": 0,
+  "same_title_groups": 5,
+  "near_duplicate_pairs": 17,
+  "leakage_groups_multi": 21,
+  "label_sample_n": 80,
+  "label_sample_correct_pre": 74,
+  "label_sample_accuracy_pre_pct": 92.5,
+  "label_sample_reviewed_valid": 78,
+  "label_sample_correct_after_review": 78,
+  "label_corrections_total": 88,
+  "label_relabels": 83,
+  "label_drop_records": 5,
+  "date_comparable": 4775,
+  "date_same_day_pct": 89.82,
+  "date_within_1h_pct": 84.06,
+  "date_diff_over_24h": 313,
+  "date_source_counts": {
+    "jsonld:datePublished": 5778,
+    "step3": 88,
+    "html_visible": 32
+  },
+  "date_check_counts": {
+    "consistent_within_1h": 4014,
+    "article_only_no_rss": 1123,
+    "diff_over_24h": 313,
+    "same_day_time_diff": 276,
+    "diff_under_24h": 172
+  },
+  "split_counts": {
+    "train": 4129,
+    "val": 886,
+    "test": 883
+  },
+  "by_label": {
+    "Kinh tế": 740,
+    "Thế giới": 810,
+    "Thể thao": 715,
+    "Pháp luật": 746,
+    "Giáo dục": 727,
+    "Sức khỏe": 750,
+    "Công nghệ": 664,
+    "Du lịch": 746
+  },
+  "by_source": {
+    "VnExpress": 1169,
+    "TuoiTre": 399,
+    "ThanhNien": 398,
+    "DanTri": 780,
+    "VietnamNet": 3152
+  },
+  "by_pair": {
+    "Kinh tế|VnExpress": 148,
+    "Kinh tế|TuoiTre": 50,
+    "Kinh tế|ThanhNien": 49,
+    "Kinh tế|DanTri": 100,
+    "Kinh tế|VietnamNet": 393,
+    "Thế giới|VnExpress": 145,
+    "Thế giới|TuoiTre": 50,
+    "Thế giới|ThanhNien": 50,
+    "Thế giới|DanTri": 91,
+    "Thế giới|VietnamNet": 474,
+    "Thể thao|VnExpress": 149,
+    "Thể thao|TuoiTre": 50,
+    "Thể thao|ThanhNien": 51,
+    "Thể thao|DanTri": 100,
+    "Thể thao|VietnamNet": 365,
+    "Pháp luật|VnExpress": 150,
+    "Pháp luật|TuoiTre": 50,
+    "Pháp luật|ThanhNien": 50,
+    "Pháp luật|DanTri": 96,
+    "Pháp luật|VietnamNet": 400,
+    "Giáo dục|VnExpress": 133,
+    "Giáo dục|TuoiTre": 48,
+    "Giáo dục|ThanhNien": 50,
+    "Giáo dục|DanTri": 98,
+    "Giáo dục|VietnamNet": 398,
+    "Sức khỏe|VnExpress": 151,
+    "Sức khỏe|TuoiTre": 50,
+    "Sức khỏe|ThanhNien": 49,
+    "Sức khỏe|DanTri": 100,
+    "Sức khỏe|VietnamNet": 400,
+    "Công nghệ|VnExpress": 144,
+    "Công nghệ|TuoiTre": 50,
+    "Công nghệ|ThanhNien": 49,
+    "Công nghệ|DanTri": 97,
+    "Công nghệ|VietnamNet": 324,
+    "Du lịch|VnExpress": 149,
+    "Du lịch|TuoiTre": 51,
+    "Du lịch|ThanhNien": 50,
+    "Du lịch|DanTri": 98,
+    "Du lịch|VietnamNet": 398
+  },
+  "drops_reason": [
+    {
+      "ID": "C004801",
+      "Source": "DanTri",
+      "Title": "Kimberly Powell - nữ lãnh đạo Nvidia được nhắc tên cùng Jensen Huang là ai?"
+    },
+    {
+      "ID": "C005576",
+      "Source": "DanTri",
+      "Title": "Loài cá ở biển sâu với đôi mắt có thể xoay bên trong chiếc đầu trong suốt"
+    },
+    {
+      "ID": "C004523",
+      "Source": "VnExpress",
+      "Title": "Bẫy ảnh phát hiện mang rừng đặc biệt quý hiếm ở Nghệ An"
+    },
+    {
+      "ID": "C004529",
+      "Source": "VnExpress",
+      "Title": "Tấm chắn Mặt Trời có thể cứu Trái Đất khỏi nóng lên?"
+    },
+    {
+      "ID": "C005083",
+      "Source": "VietnamNet",
+      "Title": "Cả gia đình doanh nhân công nghệ tử vong trong vụ tai nạn máy bay"
+    }
+  ],
+  "corrections": [
+    {
+      "ID": "C000883",
+      "Title": "Chiến dịch vận động phục chức cho Jensen Huang",
+      "Source": "VnExpress",
+      "Old_Label": "Thế giới",
+      "New_Label": "Công nghệ",
+      "Action": "relabel",
+      "Review_Type": "sample",
+      "Reason": "Bài về chiến dịch/Nvidia, thuộc chủ đề công nghệ; không phải thế giới chính trị."
+    },
+    {
+      "ID": "C001057",
+      "Title": "Hàn Quốc treo thưởng 75.000 USD phát hiện gian lận thi cử bằng AI",
+      "Source": "DanTri",
+      "Old_Label": "Thế giới",
+      "New_Label": "Giáo dục",
+      "Action": "relabel",
+      "Review_Type": "sample",
+      "Reason": "Chính sách thi cử Hàn Quốc; trọng tâm giáo dục, không phải thế giới."
+    },
+    {
+      "ID": "C003416",
+      "Title": "Quỹ VinFuture công bố 8 hoạt động chính tại Tuần lễ KHCN 2026",
+      "Source": "VietnamNet",
+      "Old_Label": "Giáo dục",
+      "New_Label": "Công nghệ",
+      "Action": "relabel",
+      "Review_Type": "sample",
+      "Reason": "Tuần lễ khoa học công nghệ VinFuture; không phải giáo dục."
+    },
+    {
+      "ID": "C004916",
+      "Title": "Kamikaze USV của Indonesia xuất kích bí mật, định hình cục diện tác chiến phi đối xứng trên biển",
+      "Source": "VietnamNet",
+      "Old_Label": "Công nghệ",
+      "New_Label": "Thế giới",
+      "Action": "relabel",
+      "Review_Type": "sample",
+      "Reason": "USV quân sự Indonesia; chủ đề quốc phòng/quân sự."
+    },
+    {
+      "ID": "C004801",
+      "Title": "Kimberly Powell - nữ lãnh đạo Nvidia được nhắc tên cùng Jensen Huang là ai?",
+      "Source": "DanTri",
+      "Old_Label": "Công nghệ",
+      "New_Label": "DROP",
+      "Action": "drop",
+      "Review_Type": "sample",
+      "Reason": "Bài về đời tư lãnh đạo Nvidia, không thuộc 8 lĩnh vực; chất lượng thấp."
+    },
+    {
+      "ID": "C005576",
+      "Title": "Loài cá ở biển sâu với đôi mắt có thể xoay bên trong chiếc đầu trong suốt",
+      "Source": "DanTri",
+      "Old_Label": "Du lịch",
+      "New_Label": "DROP",
+      "Action": "drop",
+      "Review_Type": "sample",
+      "Reason": "Bài sinh vật biển sâu, không thuộc Du lịch hay 8 lĩnh vực."
+    },
+    {
+      "ID": "C003163",
+      "Title": "Phú Quốc cần hơn 14.000 nhân sự phục vụ APEC 2027",
+      "Source": "TuoiTre",
+      "Old_Label": "Giáo dục",
+      "New_Label": "Du lịch",
+      "Action": "relabel",
+      "Review_Type": "cross_topic",
+      "Reason": "Nhân sự Phú Quốc phục vụ APEC 2027; trọng tâm du lịch/điểm đến."
+    },
+    {
+      "ID": "C003178",
+      "Title": "Vụ 22 học sinh nghi ngộ độc do uống nước ngọt: Xác minh cơ sở kinh doanh, nguồn gốc nước ngọt",
+      "Source": "TuoiTre",
+      "Old_Label": "Giáo dục",
+      "New_Label": "Sức khỏe",
+      "Action": "relabel",
+      "Review_Type": "cross_topic",
+      "Reason": "Vụ ngộ độc học sinh; trọng tâm an toàn thực phẩm/sức khỏe."
+    },
+    {
+      "ID": "C004512",
+      "Title": "TS Aimée R. Kreimer: 'Còn nhiều câu hỏi về ngừa ung thư cần nhà khoa học trẻ Việt Nam'",
+      "Source": "VnExpress",
+      "Old_Label": "Công nghệ",
+      "New_Label": "Sức khỏe",
+      "Action": "relabel",
+      "Review_Type": "high_risk_source",
+      "Reason": "Phỏng vấn về phòng ngừa ung thư; phù hợp Sức khỏe."
+    },
+    {
+      "ID": "C004726",
+      "Title": "Giải đấu Predator League 2027: Hành trình tìm kiếm đại diện Việt Nam đến đấu trường APAC",
+      "Source": "ThanhNien",
+      "Old_Label": "Công nghệ",
+      "New_Label": "Thể thao",
+      "Action": "relabel",
+      "Review_Type": "near_duplicate_label_conflict",
+      "Reason": "Giải đấu thể thao điện tử Predator League; nhãn Thể thao thống nhất với bài cùng sự kiện."
+    },
+    {
+      "ID": "C004754",
+      "Title": "Một xã ở Phú Thọ có Fanpage hút 7,5 triệu view, khách du lịch tăng 10 lần",
+      "Source": "DanTri",
+      "Old_Label": "Công nghệ",
+      "New_Label": "Du lịch",
+      "Action": "relabel",
+      "Review_Type": "high_risk_source",
+      "Reason": "Bài về du lịch cộng đồng/chuyển đổi số của xã Long Cốc; trọng tâm du lịch."
+    },
+    {
+      "ID": "C004566",
+      "Title": "Cách giảm tác động xấu của sóng điện thoại lên cơ thể",
+      "Source": "VnExpress",
+      "Old_Label": "Công nghệ",
+      "New_Label": "Sức khỏe",
+      "Action": "relabel",
+      "Review_Type": "high_risk_source",
+      "Reason": "Ảnh hưởng sóng điện thoại lên cơ thể; phù hợp Sức khỏe."
+    },
+    {
+      "ID": "C004523",
+      "Title": "Bẫy ảnh phát hiện mang rừng đặc biệt quý hiếm ở Nghệ An",
+      "Source": "VnExpress",
+      "Old_Label": "Công nghệ",
+      "New_Label": "DROP",
+      "Action": "drop",
+      "Review_Type": "high_risk_source",
+      "Reason": "Bẫy ảnh thú rừng; khoa học tự nhiên, không thuộc 8 lĩnh vực."
+    },
+    {
+      "ID": "C004529",
+      "Title": "Tấm chắn Mặt Trời có thể cứu Trái Đất khỏi nóng lên?",
+      "Source": "VnExpress",
+      "Old_Label": "Công nghệ",
+      "New_Label": "DROP",
+      "Action": "drop",
+      "Review_Type": "high_risk_source",
+      "Reason": "Tấm chắn Mặt Trời/khí hậu; khoa học, không thuộc 8 lĩnh vực."
+    },
+    {
+      "ID": "C004851",
+      "Title": "Tên lửa Barak-1 của Ấn Độ vừa chi hơn 200 triệu USD nâng cấp toàn diện mạnh cỡ nào?",
+      "Source": "VietnamNet",
+      "Old_Label": "Công nghệ",
+      "New_Label": "Thế giới",
+      "Action": "relabel",
+      "Review_Type": "full_high_risk_category",
+      "Reason": "Tin quân sự/vũ khí/tên lửa; phù hợp Thế giới hơn Công nghệ dân sự."
+    },
+    {
+      "ID": "C004854",
+      "Title": "Xe tăng VT-4B nhiều vũ khí 'khủng', công nghệ tối tân từ Type 100, ‘pháo đài diệt UAV’",
+      "Source": "VietnamNet",
+      "Old_Label": "Công nghệ",
+      "New_Label": "Thế giới",
+      "Action": "relabel",
+      "Review_Type": "full_high_risk_category",
+      "Reason": "Tin quân sự/vũ khí/tên lửa; phù hợp Thế giới hơn Công nghệ dân sự."
+    },
+    {
+      "ID": "C004857",
+      "Title": "Lý do phòng không Nga thất thủ, bị 11 loại vũ khí công nghệ Ukraine đánh sập cầu Crưm",
+      "Source": "VietnamNet",
+      "Old_Label": "Công nghệ",
+      "New_Label": "Thế giới",
+      "Action": "relabel",
+      "Review_Type": "full_high_risk_category",
+      "Reason": "Tin quân sự/vũ khí/tên lửa; phù hợp Thế giới hơn Công nghệ dân sự."
+    },
+    {
+      "ID": "C004860",
+      "Title": "Sức mạnh xe bọc thép Arma, vũ khí công nghệ cao thách thức Patria và Boxer",
+      "Source": "VietnamNet",
+      "Old_Label": "Công nghệ",
+      "New_Label": "Thế giới",
+      "Action": "relabel",
+      "Review_Type": "full_high_risk_category",
+      "Reason": "Tin quân sự/vũ khí/tên lửa; phù hợp Thế giới hơn Công nghệ dân sự."
+    },
+    {
+      "ID": "C004864",
+      "Title": "Sức mạnh vũ khí xung điện từ, ‘cơn ác mộng’ biến mọi khí tài đối phương thành sắt vụn trong tích tắc",
+      "Source": "VietnamNet",
+      "Old_Label": "Công nghệ",
+      "New_Label": "Thế giới",
+      "Action": "relabel",
+      "Review_Type": "full_high_risk_category",
+      "Reason": "Tin quân sự/vũ khí/tên lửa; phù hợp Thế giới hơn Công nghệ dân sự."
+    },
+    {
+      "ID": "C004866",
+      "Title": "Sức mạnh dàn ‘sát thủ’ 11 vũ khí công nghệ Ukraine đánh sập nhịp cầu Crưm của Nga",
+      "Source": "VietnamNet",
+      "Old_Label": "Công nghệ",
+      "New_Label": "Thế giới",
+      "Action": "relabel",
+      "Review_Type": "full_high_risk_category",
+      "Reason": "Tin quân sự/vũ khí/tên lửa; phù hợp Thế giới hơn Công nghệ dân sự."
+    },
+    {
+      "ID": "C004870",
+      "Title": "Tên lửa Filin và Dan-T của Nga phóng từ mặt đất mạnh cỡ nào?",
+      "Source": "VietnamNet",
+      "Old_Label": "Công nghệ",
+      "New_Label": "Thế giới",
+      "Action": "relabel",
+      "Review_Type": "full_high_risk_category",
+      "Reason": "Tin quân sự/vũ khí/tên lửa; phù hợp Thế giới hơn Công nghệ dân sự."
+    },
+    {
+      "ID": "C004871",
+      "Title": "Tên lửa Paveh của Iran thành ‘bóng ma’ xuyên thủng mọi lưới phòng không nhờ công nghệ Mỹ",
+      "Source": "VietnamNet",
+      "Old_Label": "Công nghệ",
+      "New_Label": "Thế giới",
+      "Action": "relabel",
+      "Review_Type": "full_high_risk_category",
+      "Reason": "Tin quân sự/vũ khí/tên lửa; phù hợp Thế giới hơn Công nghệ dân sự."
+    },
+    {
+      "ID": "C004881",
+      "Title": "Tiêm kích F-16V Viper thay ‘bộ não’ và ‘mắt’ bằng công nghệ tối tân, thành chiến cơ mạnh nhất hiện nay",
+      "Source": "VietnamNet",
+      "Old_Label": "Công nghệ",
+      "New_Label": "Thế giới",
+      "Action": "relabel",
+      "Review_Type": "full_high_risk_category",
+      "Reason": "Tin quân sự/vũ khí/tên lửa; phù hợp Thế giới hơn Công nghệ dân sự."
+    },
+    {
+      "ID": "C004882",
+      "Title": "Tên lửa Kheibar của Iran tốc độ Mach 16, tầm bắn 4.000km, thách thức phòng thủ toàn cầu",
+      "Source": "VietnamNet",
+      "Old_Label": "Công nghệ",
+      "New_Label": "Thế giới",
+      "Action": "relabel",
+      "Review_Type": "full_high_risk_category",
+      "Reason": "Tin quân sự/vũ khí/tên lửa; phù hợp Thế giới hơn Công nghệ dân sự."
+    },
+    {
+      "ID": "C004885",
+      "Title": "Khám phá UGV R3NEGADE và bệ phóng bầy đàn 18 drone FPV HIV3 của Mỹ",
+      "Source": "VietnamNet",
+      "Old_Label": "Công nghệ",
+      "New_Label": "Thế giới",
+      "Action": "relabel",
+      "Review_Type": "full_high_risk_category",
+      "Reason": "Tin quân sự/vũ khí/tên lửa; phù hợp Thế giới hơn Công nghệ dân sự."
+    },
+    {
+      "ID": "C004887",
+      "Title": "Pháo phản lực Sarma 300mm Nga: ‘Bóng ma hỏa lực’ thế hệ mới, cơ động cực cao",
+      "Source": "VietnamNet",
+      "Old_Label": "Công nghệ",
+      "New_Label": "Thế giới",
+      "Action": "relabel",
+      "Review_Type": "full_high_risk_category",
+      "Reason": "Tin quân sự/vũ khí/tên lửa; phù hợp Thế giới hơn Công nghệ dân sự."
+    },
+    {
+      "ID": "C004896",
+      "Title": "Tiêm kích J-10C Trung Quốc bất ngờ mang tên lửa Kh-29T Nga: 'Cú sốc' công nghệ quân sự",
+      "Source": "VietnamNet",
+      "Old_Label": "Công nghệ",
+      "New_Label": "Thế giới",
+      "Action": "relabel",
+      "Review_Type": "full_high_risk_category",
+      "Reason": "Tin quân sự/vũ khí/tên lửa; phù hợp Thế giới hơn Công nghệ dân sự."
+    },
+    {
+      "ID": "C004898",
+      "Title": "Đằng sau cái lắc đầu phũ phàng của Ý, Nhật đối với Đức trong công nghệ tiêm kích GCAP",
+      "Source": "VietnamNet",
+      "Old_Label": "Công nghệ",
+      "New_Label": "Thế giới",
+      "Action": "relabel",
+      "Review_Type": "full_high_risk_category",
+      "Reason": "Tin quân sự/vũ khí/tên lửa; phù hợp Thế giới hơn Công nghệ dân sự."
+    },
+    {
+      "ID": "C004902",
+      "Title": "Tên lửa Iskander-M Nga trang bị 'mắt thần' tối tân, vô hiệu hóa GPS, đánh trúng huyết mạch Ukraine",
+      "Source": "VietnamNet",
+      "Old_Label": "Công nghệ",
+      "New_Label": "Thế giới",
+      "Action": "relabel",
+      "Review_Type": "full_high_risk_category",
+      "Reason": "Tin quân sự/vũ khí/tên lửa; phù hợp Thế giới hơn Công nghệ dân sự."
+    },
+    {
+      "ID": "C004904",
+      "Title": "So găng công nghệ tiêm kích J-20A với F-22, F-35 và kịch bản không chiến thực tế",
+      "Source": "VietnamNet",
+      "Old_Label": "Công nghệ",
+      "New_Label": "Thế giới",
+      "Action": "relabel",
+      "Review_Type": "full_high_risk_category",
+      "Reason": "Tin quân sự/vũ khí/tên lửa; phù hợp Thế giới hơn Công nghệ dân sự."
+    },
+    {
+      "ID": "C004910",
+      "Title": "Mỹ cán mốc 100.000 tên lửa GMLRS công nghệ chính xác gần 100%, tung ‘át chủ bài’ tầm bắn 150km",
+      "Source": "VietnamNet",
+      "Old_Label": "Công nghệ",
+      "New_Label": "Thế giới",
+      "Action": "relabel",
+      "Review_Type": "full_high_risk_category",
+      "Reason": "Tin quân sự/vũ khí/tên lửa; phù hợp Thế giới hơn Công nghệ dân sự."
+    },
+    {
+      "ID": "C004913",
+      "Title": "3 lớp công nghệ chống UAV tối tân nhất thế giới quyết định cục diện chiến trường",
+      "Source": "VietnamNet",
+      "Old_Label": "Công nghệ",
+      "New_Label": "Thế giới",
+      "Action": "relabel",
+      "Review_Type": "full_high_risk_category",
+      "Reason": "Tin quân sự/vũ khí/tên lửa; phù hợp Thế giới hơn Công nghệ dân sự."
+    },
+    {
+      "ID": "C004919",
+      "Title": "Sức mạnh công nghệ tiêm kích thế hệ 4++ hiện đại nhất thế giới F-15EX Mỹ đưa tới Nhật Bản",
+      "Source": "VietnamNet",
+      "Old_Label": "Công nghệ",
+      "New_Label": "Thế giới",
+      "Action": "relabel",
+      "Review_Type": "full_high_risk_category",
+      "Reason": "Tin quân sự/vũ khí/tên lửa; phù hợp Thế giới hơn Công nghệ dân sự."
+    },
+    {
+      "ID": "C004923",
+      "Title": "Tên lửa Sea Slug chậm nhất lịch sử, từ phòng không thất bại đến vũ khí bắn mục tiêu mặt đất bất đắc dĩ",
+      "Source": "VietnamNet",
+      "Old_Label": "Công nghệ",
+      "New_Label": "Thế giới",
+      "Action": "relabel",
+      "Review_Type": "full_high_risk_category",
+      "Reason": "Tin quân sự/vũ khí/tên lửa; phù hợp Thế giới hơn Công nghệ dân sự."
+    },
+    {
+      "ID": "C004926",
+      "Title": "Tiêm kích J-20A 'lột xác' công nghệ kinh điển, thách thức mọi đối thủ",
+      "Source": "VietnamNet",
+      "Old_Label": "Công nghệ",
+      "New_Label": "Thế giới",
+      "Action": "relabel",
+      "Review_Type": "full_high_risk_category",
+      "Reason": "Tin quân sự/vũ khí/tên lửa; phù hợp Thế giới hơn Công nghệ dân sự."
+    },
+    {
+      "ID": "C004931",
+      "Title": "Tên lửa SUPER ICE đầu đạn nặng gần nửa tấn, đa nền tảng, xuyên thủng phòng không",
+      "Source": "VietnamNet",
+      "Old_Label": "Công nghệ",
+      "New_Label": "Thế giới",
+      "Action": "relabel",
+      "Review_Type": "full_high_risk_category",
+      "Reason": "Tin quân sự/vũ khí/tên lửa; phù hợp Thế giới hơn Công nghệ dân sự."
+    },
+    {
+      "ID": "C004958",
+      "Title": "Bí ẩn công nghệ đạn tuần kích Harpia-A1 E của Nga tấn công mục tiêu ở khoảng cách cực xa",
+      "Source": "VietnamNet",
+      "Old_Label": "Công nghệ",
+      "New_Label": "Thế giới",
+      "Action": "relabel",
+      "Review_Type": "full_high_risk_category",
+      "Reason": "Tin quân sự/vũ khí/tên lửa; phù hợp Thế giới hơn Công nghệ dân sự."
+    },
+    {
+      "ID": "C004968",
+      "Title": "Sức mạnh tên lửa AGM-88G AARGM-ER công nghệ săn sóng điện từ tối tân",
+      "Source": "VietnamNet",
+      "Old_Label": "Công nghệ",
+      "New_Label": "Thế giới",
+      "Action": "relabel",
+      "Review_Type": "full_high_risk_category",
+      "Reason": "Tin quân sự/vũ khí/tên lửa; phù hợp Thế giới hơn Công nghệ dân sự."
+    },
+    {
+      "ID": "C004970",
+      "Title": "Sức mạnh công nghệ tên lửa AGM-188A Rusty Dagger Mỹ bị Nga tuyên bố bắn hạ",
+      "Source": "VietnamNet",
+      "Old_Label": "Công nghệ",
+      "New_Label": "Thế giới",
+      "Action": "relabel",
+      "Review_Type": "full_high_risk_category",
+      "Reason": "Tin quân sự/vũ khí/tên lửa; phù hợp Thế giới hơn Công nghệ dân sự."
+    },
+    {
+      "ID": "C004978",
+      "Title": "Pháo phản lực K239 Chunmoo hay M142 HIMARS định hình sức mạnh của Philippines",
+      "Source": "VietnamNet",
+      "Old_Label": "Công nghệ",
+      "New_Label": "Thế giới",
+      "Action": "relabel",
+      "Review_Type": "full_high_risk_category",
+      "Reason": "Tin quân sự/vũ khí/tên lửa; phù hợp Thế giới hơn Công nghệ dân sự."
+    },
+    {
+      "ID": "C004992",
+      "Title": "Tên lửa Pyongae-6 công nghệ phóng thẳng đứng, dẫn đường đa kênh, đe dọa mọi mục tiêu",
+      "Source": "VietnamNet",
+      "Old_Label": "Công nghệ",
+      "New_Label": "Thế giới",
+      "Action": "relabel",
+      "Review_Type": "full_high_risk_category",
+      "Reason": "Tin quân sự/vũ khí/tên lửa; phù hợp Thế giới hơn Công nghệ dân sự."
+    },
+    {
+      "ID": "C005013",
+      "Title": "Sức mạnh tên lửa Kh-39 LMUR Nga dùng ở Ukraine ‘nhỏ nhưng có võ’",
+      "Source": "VietnamNet",
+      "Old_Label": "Công nghệ",
+      "New_Label": "Thế giới",
+      "Action": "relabel",
+      "Review_Type": "full_high_risk_category",
+      "Reason": "Tin quân sự/vũ khí/tên lửa; phù hợp Thế giới hơn Công nghệ dân sự."
+    },
+    {
+      "ID": "C005019",
+      "Title": "Tên lửa Pralay tầm bắn 500km, tốc độ Mach 6, quỹ đạo biến ảo khiến phòng không bất lực",
+      "Source": "VietnamNet",
+      "Old_Label": "Công nghệ",
+      "New_Label": "Thế giới",
+      "Action": "relabel",
+      "Review_Type": "full_high_risk_category",
+      "Reason": "Tin quân sự/vũ khí/tên lửa; phù hợp Thế giới hơn Công nghệ dân sự."
+    },
+    {
+      "ID": "C005026",
+      "Title": "Tên lửa đạn đạo B-STRIKE tầm bắn 1.000km, công nghệ MaRV, tấn công từ USV",
+      "Source": "VietnamNet",
+      "Old_Label": "Công nghệ",
+      "New_Label": "Thế giới",
+      "Action": "relabel",
+      "Review_Type": "full_high_risk_category",
+      "Reason": "Tin quân sự/vũ khí/tên lửa; phù hợp Thế giới hơn Công nghệ dân sự."
+    },
+    {
+      "ID": "C005029",
+      "Title": "Tên lửa Faaz công nghệ dẫn đường tối tân, tấn công ngoài tầm nhìn",
+      "Source": "VietnamNet",
+      "Old_Label": "Công nghệ",
+      "New_Label": "Thế giới",
+      "Action": "relabel",
+      "Review_Type": "full_high_risk_category",
+      "Reason": "Tin quân sự/vũ khí/tên lửa; phù hợp Thế giới hơn Công nghệ dân sự."
+    },
+    {
+      "ID": "C005033",
+      "Title": "Hệ thống phòng thủ tên lửa S-500 Nga: Công nghệ đánh chặn đến tầng không gian gần",
+      "Source": "VietnamNet",
+      "Old_Label": "Công nghệ",
+      "New_Label": "Thế giới",
+      "Action": "relabel",
+      "Review_Type": "full_high_risk_category",
+      "Reason": "Tin quân sự/vũ khí/tên lửa; phù hợp Thế giới hơn Công nghệ dân sự."
+    },
+    {
+      "ID": "C005040",
+      "Title": "Tên lửa Oreshnik Nga tốc độ Mach 10, tầm bắn 5.500km, công nghệ MIRV, 'không thể chặn'?",
+      "Source": "VietnamNet",
+      "Old_Label": "Công nghệ",
+      "New_Label": "Thế giới",
+      "Action": "relabel",
+      "Review_Type": "full_high_risk_category",
+      "Reason": "Tin quân sự/vũ khí/tên lửa; phù hợp Thế giới hơn Công nghệ dân sự."
+    },
+    {
+      "ID": "C005049",
+      "Title": "AI quân sự: Lằn ranh mong manh giữa bước ngoặt quân sự và thảm họa toàn cầu",
+      "Source": "VietnamNet",
+      "Old_Label": "Công nghệ",
+      "New_Label": "Thế giới",
+      "Action": "relabel",
+      "Review_Type": "full_high_risk_category",
+      "Reason": "Tin quân sự/vũ khí/tên lửa; phù hợp Thế giới hơn Công nghệ dân sự."
+    },
+    {
+      "ID": "C005052",
+      "Title": "Tên lửa ESSM Block 2 tốc độ Mach 4, cán mốc 1.000 quả",
+      "Source": "VietnamNet",
+      "Old_Label": "Công nghệ",
+      "New_Label": "Thế giới",
+      "Action": "relabel",
+      "Review_Type": "full_high_risk_category",
+      "Reason": "Tin quân sự/vũ khí/tên lửa; phù hợp Thế giới hơn Công nghệ dân sự."
+    },
+    {
+      "ID": "C005055",
+      "Title": "Giải mã công nghệ pháo-tên lửa Pantsir",
+      "Source": "VietnamNet",
+      "Old_Label": "Công nghệ",
+      "New_Label": "Thế giới",
+      "Action": "relabel",
+      "Review_Type": "full_high_risk_category",
+      "Reason": "Tin quân sự/vũ khí/tên lửa; phù hợp Thế giới hơn Công nghệ dân sự."
+    },
+    {
+      "ID": "C005061",
+      "Title": "Tên lửa DF-26B ‘sát thủ diệt tàu sân bay’: Công nghệ, sức mạnh thực sự đến đâu?",
+      "Source": "VietnamNet",
+      "Old_Label": "Công nghệ",
+      "New_Label": "Thế giới",
+      "Action": "relabel",
+      "Review_Type": "full_high_risk_category",
+      "Reason": "Tin quân sự/vũ khí/tên lửa; phù hợp Thế giới hơn Công nghệ dân sự."
+    },
+    {
+      "ID": "C005071",
+      "Title": "Sức mạnh hệ thống tên lửa 3rd Khordad Iran bắn hạ Global Hawk Mỹ",
+      "Source": "VietnamNet",
+      "Old_Label": "Công nghệ",
+      "New_Label": "Thế giới",
+      "Action": "relabel",
+      "Review_Type": "full_high_risk_category",
+      "Reason": "Tin quân sự/vũ khí/tên lửa; phù hợp Thế giới hơn Công nghệ dân sự."
+    },
+    {
+      "ID": "C005082",
+      "Title": "‘Thảm bay’ Air Cover: Công nghệ ngụy trang tinh vi chưa từng có, thay đổi cục diện chiến tranh định vị",
+      "Source": "VietnamNet",
+      "Old_Label": "Công nghệ",
+      "New_Label": "Thế giới",
+      "Action": "relabel",
+      "Review_Type": "full_high_risk_category",
+      "Reason": "Tin quân sự/vũ khí/tên lửa; phù hợp Thế giới hơn Công nghệ dân sự."
+    },
+    {
+      "ID": "C005089",
+      "Title": "Tên lửa Iskander-M Mach 7, quỹ đạo quasi-ballistic, ‘ác mộng’ với mọi hệ thống phòng không",
+      "Source": "VietnamNet",
+      "Old_Label": "Công nghệ",
+      "New_Label": "Thế giới",
+      "Action": "relabel",
+      "Review_Type": "full_high_risk_category",
+      "Reason": "Tin quân sự/vũ khí/tên lửa; phù hợp Thế giới hơn Công nghệ dân sự."
+    },
+    {
+      "ID": "C005104",
+      "Title": "Triều Tiên ra mắt đạn tuần kích giống Harop Israel: Đầu dò quang điện tử, chọc thủng lưới phòng không",
+      "Source": "VietnamNet",
+      "Old_Label": "Công nghệ",
+      "New_Label": "Thế giới",
+      "Action": "relabel",
+      "Review_Type": "full_high_risk_category",
+      "Reason": "Tin quân sự/vũ khí/tên lửa; phù hợp Thế giới hơn Công nghệ dân sự."
+    },
+    {
+      "ID": "C005105",
+      "Title": "Sức mạnh tên lửa Ruta tầm bắn 2.000km, độc lập GPS, Ukraine dùng tấn công Nga",
+      "Source": "VietnamNet",
+      "Old_Label": "Công nghệ",
+      "New_Label": "Thế giới",
+      "Action": "relabel",
+      "Review_Type": "full_high_risk_category",
+      "Reason": "Tin quân sự/vũ khí/tên lửa; phù hợp Thế giới hơn Công nghệ dân sự."
+    },
+    {
+      "ID": "C005107",
+      "Title": "Tên lửa Neptune Ukraine ‘lột xác’ thành ‘sát thủ tầm xa’, đánh sâu vào Nga",
+      "Source": "VietnamNet",
+      "Old_Label": "Công nghệ",
+      "New_Label": "Thế giới",
+      "Action": "relabel",
+      "Review_Type": "full_high_risk_category",
+      "Reason": "Tin quân sự/vũ khí/tên lửa; phù hợp Thế giới hơn Công nghệ dân sự."
+    },
+    {
+      "ID": "C005110",
+      "Title": "Pháo tự hành PLZ-52 155mm, cabin và tháp pháo được bảo vệ chống vũ khí hủy diệt hàng loạt NBH",
+      "Source": "VietnamNet",
+      "Old_Label": "Công nghệ",
+      "New_Label": "Thế giới",
+      "Action": "relabel",
+      "Review_Type": "full_high_risk_category",
+      "Reason": "Tin quân sự/vũ khí/tên lửa; phù hợp Thế giới hơn Công nghệ dân sự."
+    },
+    {
+      "ID": "C005113",
+      "Title": "Sức mạnh S-400 thuộc những hệ thống phòng không tầm xa mạnh nhất hiện nay Ethiopia sắp sở hữu",
+      "Source": "VietnamNet",
+      "Old_Label": "Công nghệ",
+      "New_Label": "Thế giới",
+      "Action": "relabel",
+      "Review_Type": "full_high_risk_category",
+      "Reason": "Tin quân sự/vũ khí/tên lửa; phù hợp Thế giới hơn Công nghệ dân sự."
+    },
+    {
+      "ID": "C005115",
+      "Title": "Tên lửa GMLRS Mỹ tích hợp công nghệ mới đáng kinh ngạc, chính xác tuyệt đối",
+      "Source": "VietnamNet",
+      "Old_Label": "Công nghệ",
+      "New_Label": "Thế giới",
+      "Action": "relabel",
+      "Review_Type": "full_high_risk_category",
+      "Reason": "Tin quân sự/vũ khí/tên lửa; phù hợp Thế giới hơn Công nghệ dân sự."
+    },
+    {
+      "ID": "C005118",
+      "Title": "Mỹ bán 500 tên lửa Patriot cho Ukraine: Công nghệ hit-to-kill giúp ‘lật kèo’ trước tên lửa Nga?",
+      "Source": "VietnamNet",
+      "Old_Label": "Công nghệ",
+      "New_Label": "Thế giới",
+      "Action": "relabel",
+      "Review_Type": "full_high_risk_category",
+      "Reason": "Tin quân sự/vũ khí/tên lửa; phù hợp Thế giới hơn Công nghệ dân sự."
+    },
+    {
+      "ID": "C005120",
+      "Title": "Iran 'bắt sống' UAV trinh sát MQM-170 Mỹ tại eo biển Hormuz bằng công nghệ EW",
+      "Source": "VietnamNet",
+      "Old_Label": "Công nghệ",
+      "New_Label": "Thế giới",
+      "Action": "relabel",
+      "Review_Type": "full_high_risk_category",
+      "Reason": "Tin quân sự/vũ khí/tên lửa; phù hợp Thế giới hơn Công nghệ dân sự."
+    },
+    {
+      "ID": "C005121",
+      "Title": "Nga tăng sản xuất tên lửa gấp 6 lần: Sức mạnh công nghệ tên lửa Kh-101, Kalibr",
+      "Source": "VietnamNet",
+      "Old_Label": "Công nghệ",
+      "New_Label": "Thế giới",
+      "Action": "relabel",
+      "Review_Type": "full_high_risk_category",
+      "Reason": "Tin quân sự/vũ khí/tên lửa; phù hợp Thế giới hơn Công nghệ dân sự."
+    },
+    {
+      "ID": "C005133",
+      "Title": "Đối đầu công nghệ tên lửa RS-28 Sarmat Mach 20, tầm bắn 18.000km và tên lửa DF-41 tầm bắn 15.000km",
+      "Source": "VietnamNet",
+      "Old_Label": "Công nghệ",
+      "New_Label": "Thế giới",
+      "Action": "relabel",
+      "Review_Type": "full_high_risk_category",
+      "Reason": "Tin quân sự/vũ khí/tên lửa; phù hợp Thế giới hơn Công nghệ dân sự."
+    },
+    {
+      "ID": "C005145",
+      "Title": "Tên lửa Bulava tầm bắn 10.000km, 10 đầu đạn MIRV, 'át chủ bài' của tàu ngầm Borei-A",
+      "Source": "VietnamNet",
+      "Old_Label": "Công nghệ",
+      "New_Label": "Thế giới",
+      "Action": "relabel",
+      "Review_Type": "full_high_risk_category",
+      "Reason": "Tin quân sự/vũ khí/tên lửa; phù hợp Thế giới hơn Công nghệ dân sự."
+    },
+    {
+      "ID": "C005150",
+      "Title": "Pháo cao xạ Type 90 35mm của PLA: Sức mạnh xuyên phá từ đạn APDS tungsten",
+      "Source": "VietnamNet",
+      "Old_Label": "Công nghệ",
+      "New_Label": "Thế giới",
+      "Action": "relabel",
+      "Review_Type": "full_high_risk_category",
+      "Reason": "Tin quân sự/vũ khí/tên lửa; phù hợp Thế giới hơn Công nghệ dân sự."
+    },
+    {
+      "ID": "C005151",
+      "Title": "Tên lửa Storm Shadow giáng đòn chí mạng vào nhà máy sản xuất pin cho tên lửa Iskander, Pantsir",
+      "Source": "VietnamNet",
+      "Old_Label": "Công nghệ",
+      "New_Label": "Thế giới",
+      "Action": "relabel",
+      "Review_Type": "full_high_risk_category",
+      "Reason": "Tin quân sự/vũ khí/tên lửa; phù hợp Thế giới hơn Công nghệ dân sự."
+    },
+    {
+      "ID": "C005155",
+      "Title": "Tên lửa Contra Đức đối phó các cuộc tấn công quy mô lớn, đánh chặn hàng nghìn mục tiêu",
+      "Source": "VietnamNet",
+      "Old_Label": "Công nghệ",
+      "New_Label": "Thế giới",
+      "Action": "relabel",
+      "Review_Type": "full_high_risk_category",
+      "Reason": "Tin quân sự/vũ khí/tên lửa; phù hợp Thế giới hơn Công nghệ dân sự."
+    },
+    {
+      "ID": "C005157",
+      "Title": "Đột phá công nghệ giúp tên lửa Anthem tầm bắn vượt 1.000km, thay đổi cuộc chơi",
+      "Source": "VietnamNet",
+      "Old_Label": "Công nghệ",
+      "New_Label": "Thế giới",
+      "Action": "relabel",
+      "Review_Type": "full_high_risk_category",
+      "Reason": "Tin quân sự/vũ khí/tên lửa; phù hợp Thế giới hơn Công nghệ dân sự."
+    },
+    {
+      "ID": "C005166",
+      "Title": "Tên lửa Iran vượt qua 3 lớp phòng thủ tên lửa Patriot, đánh trúng căn cứ quân sự Mỹ",
+      "Source": "VietnamNet",
+      "Old_Label": "Công nghệ",
+      "New_Label": "Thế giới",
+      "Action": "relabel",
+      "Review_Type": "full_high_risk_category",
+      "Reason": "Tin quân sự/vũ khí/tên lửa; phù hợp Thế giới hơn Công nghệ dân sự."
+    },
+    {
+      "ID": "C005168",
+      "Title": "Mỹ ra mắt tên lửa Rust Dagger phóng từ mặt đất, công nghệ lai đột phá, sản xuất 7.500 quả/năm",
+      "Source": "VietnamNet",
+      "Old_Label": "Công nghệ",
+      "New_Label": "Thế giới",
+      "Action": "relabel",
+      "Review_Type": "full_high_risk_category",
+      "Reason": "Tin quân sự/vũ khí/tên lửa; phù hợp Thế giới hơn Công nghệ dân sự."
+    },
+    {
+      "ID": "C005183",
+      "Title": "Tên lửa Siper Block 2 ‘quay xe’ đổi mục tiêu tấn công giữa không trung",
+      "Source": "VietnamNet",
+      "Old_Label": "Công nghệ",
+      "New_Label": "Thế giới",
+      "Action": "relabel",
+      "Review_Type": "full_high_risk_category",
+      "Reason": "Tin quân sự/vũ khí/tên lửa; phù hợp Thế giới hơn Công nghệ dân sự."
+    },
+    {
+      "ID": "C005187",
+      "Title": "Tên lửa BrahMos 'gây bão' tại Đông Nam Á và Trung Đông",
+      "Source": "VietnamNet",
+      "Old_Label": "Công nghệ",
+      "New_Label": "Thế giới",
+      "Action": "relabel",
+      "Review_Type": "full_high_risk_category",
+      "Reason": "Tin quân sự/vũ khí/tên lửa; phù hợp Thế giới hơn Công nghệ dân sự."
+    },
+    {
+      "ID": "C005191",
+      "Title": "Giải mã ‘nắm đấm thép’ Typhon Mỹ với sức mạnh phóng loạt tên lửa Tomahawk, SM-6",
+      "Source": "VietnamNet",
+      "Old_Label": "Công nghệ",
+      "New_Label": "Thế giới",
+      "Action": "relabel",
+      "Review_Type": "full_high_risk_category",
+      "Reason": "Tin quân sự/vũ khí/tên lửa; phù hợp Thế giới hơn Công nghệ dân sự."
+    },
+    {
+      "ID": "C005200",
+      "Title": "Pháo XM1776 MTC Mỹ khiến ‘kẻ thù không biết đâu mà tìm’ nhờ ‘shoot-and-scoot’",
+      "Source": "VietnamNet",
+      "Old_Label": "Công nghệ",
+      "New_Label": "Thế giới",
+      "Action": "relabel",
+      "Review_Type": "full_high_risk_category",
+      "Reason": "Tin quân sự/vũ khí/tên lửa; phù hợp Thế giới hơn Công nghệ dân sự."
+    },
+    {
+      "ID": "C005202",
+      "Title": "Tên lửa BrahMos 'lột xác' với tầm bắn tăng gấp 5 lần nguyên bản, tốc độ siêu vượt âm",
+      "Source": "VietnamNet",
+      "Old_Label": "Công nghệ",
+      "New_Label": "Thế giới",
+      "Action": "relabel",
+      "Review_Type": "full_high_risk_category",
+      "Reason": "Tin quân sự/vũ khí/tên lửa; phù hợp Thế giới hơn Công nghệ dân sự."
+    },
+    {
+      "ID": "C005206",
+      "Title": "Lý do Đức săn hàng nghìn tên lửa tầm xa, đặc biệt quan tâm tên lửa Bars của Ukraine",
+      "Source": "VietnamNet",
+      "Old_Label": "Công nghệ",
+      "New_Label": "Thế giới",
+      "Action": "relabel",
+      "Review_Type": "full_high_risk_category",
+      "Reason": "Tin quân sự/vũ khí/tên lửa; phù hợp Thế giới hơn Công nghệ dân sự."
+    },
+    {
+      "ID": "C005208",
+      "Title": "Giải mã tên lửa KHAN dẫn đường INS, định vị GPS, thách thức vị thế 'độc tôn' của Iskander-M",
+      "Source": "VietnamNet",
+      "Old_Label": "Công nghệ",
+      "New_Label": "Thế giới",
+      "Action": "relabel",
+      "Review_Type": "full_high_risk_category",
+      "Reason": "Tin quân sự/vũ khí/tên lửa; phù hợp Thế giới hơn Công nghệ dân sự."
+    },
+    {
+      "ID": "C005211",
+      "Title": "Iran bắn rơi UAV LUCAS của Mỹ tại Bandar Abbas: Giải mã công nghệ ‘bản sao Shahed’",
+      "Source": "VietnamNet",
+      "Old_Label": "Công nghệ",
+      "New_Label": "Thế giới",
+      "Action": "relabel",
+      "Review_Type": "full_high_risk_category",
+      "Reason": "Tin quân sự/vũ khí/tên lửa; phù hợp Thế giới hơn Công nghệ dân sự."
+    },
+    {
+      "ID": "C005213",
+      "Title": "Tên lửa Bora dẫn đường INS, định vị GPS, chính xác như phẫu thuật, xuyên thủng phòng không",
+      "Source": "VietnamNet",
+      "Old_Label": "Công nghệ",
+      "New_Label": "Thế giới",
+      "Action": "relabel",
+      "Review_Type": "full_high_risk_category",
+      "Reason": "Tin quân sự/vũ khí/tên lửa; phù hợp Thế giới hơn Công nghệ dân sự."
+    },
+    {
+      "ID": "C005217",
+      "Title": "Tên lửa Stunner Israel tốc độ Mach 7.5, ‘bắt mồi nhử’ tinh vi nhất, khiến đối thủ bất lực",
+      "Source": "VietnamNet",
+      "Old_Label": "Công nghệ",
+      "New_Label": "Thế giới",
+      "Action": "relabel",
+      "Review_Type": "full_high_risk_category",
+      "Reason": "Tin quân sự/vũ khí/tên lửa; phù hợp Thế giới hơn Công nghệ dân sự."
+    },
+    {
+      "ID": "C005218",
+      "Title": "Bệ phóng tên lửa đạn đạo bắn đạn dẫn đường cỡ nhỏ: Bước tiến vượt bậc, linh hoạt đa cỡ đạn",
+      "Source": "VietnamNet",
+      "Old_Label": "Công nghệ",
+      "New_Label": "Thế giới",
+      "Action": "relabel",
+      "Review_Type": "full_high_risk_category",
+      "Reason": "Tin quân sự/vũ khí/tên lửa; phù hợp Thế giới hơn Công nghệ dân sự."
+    },
+    {
+      "ID": "C005225",
+      "Title": "Tên lửa Steelfin hai tầng, khắc tinh của tên lửa siêu thanh, thay đổi cục diện phòng thủ bầu trời",
+      "Source": "VietnamNet",
+      "Old_Label": "Công nghệ",
+      "New_Label": "Thế giới",
+      "Action": "relabel",
+      "Review_Type": "full_high_risk_category",
+      "Reason": "Tin quân sự/vũ khí/tên lửa; phù hợp Thế giới hơn Công nghệ dân sự."
+    },
+    {
+      "ID": "C005230",
+      "Title": "Tên lửa Taimoor ALCM tầm bắn 600km, bay sát đất xuyên phòng không, thách thức Storm Shadow",
+      "Source": "VietnamNet",
+      "Old_Label": "Công nghệ",
+      "New_Label": "Thế giới",
+      "Action": "relabel",
+      "Review_Type": "full_high_risk_category",
+      "Reason": "Tin quân sự/vũ khí/tên lửa; phù hợp Thế giới hơn Công nghệ dân sự."
+    },
+    {
+      "ID": "C005239",
+      "Title": "'Mổ xẻ' tên lửa Filin mới của Nga tầm bắn 1.200km, khiến Ukraine ‘nín thở’",
+      "Source": "VietnamNet",
+      "Old_Label": "Công nghệ",
+      "New_Label": "Thế giới",
+      "Action": "relabel",
+      "Review_Type": "full_high_risk_category",
+      "Reason": "Tin quân sự/vũ khí/tên lửa; phù hợp Thế giới hơn Công nghệ dân sự."
+    },
+    {
+      "ID": "C005249",
+      "Title": "Sức mạnh tên lửa 9-Dey, ‘vòng phòng thủ cuối cùng’ bảo vệ kho tên lửa Iran",
+      "Source": "VietnamNet",
+      "Old_Label": "Công nghệ",
+      "New_Label": "Thế giới",
+      "Action": "relabel",
+      "Review_Type": "full_high_risk_category",
+      "Reason": "Tin quân sự/vũ khí/tên lửa; phù hợp Thế giới hơn Công nghệ dân sự."
+    },
+    {
+      "ID": "C005250",
+      "Title": "Bí mật công nghệ tên lửa Ghauri tầm bắn 1.500km, ‘nắm đấm thép’ răn đe chiến lược",
+      "Source": "VietnamNet",
+      "Old_Label": "Công nghệ",
+      "New_Label": "Thế giới",
+      "Action": "relabel",
+      "Review_Type": "full_high_risk_category",
+      "Reason": "Tin quân sự/vũ khí/tên lửa; phù hợp Thế giới hơn Công nghệ dân sự."
+    },
+    {
+      "ID": "C005083",
+      "Title": "Cả gia đình doanh nhân công nghệ tử vong trong vụ tai nạn máy bay",
+      "Source": "VietnamNet",
+      "Old_Label": "Công nghệ",
+      "New_Label": "DROP",
+      "Action": "drop",
+      "Review_Type": "full_high_risk_category",
+      "Reason": "Tai nạn gia đình doanh nhân; không phải tin công nghệ."
+    }
+  ]
+}

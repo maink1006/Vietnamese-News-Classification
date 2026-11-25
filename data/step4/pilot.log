@@ -1,0 +1,75 @@
+Đã có 0 bài thành công trong checkpoint. Còn 6000 bài.
+PROGRESS {"updated_at": "2026-11-20T15:07:26+07:00", "elapsed_seconds": 0.0, "total_candidates": 6000, "success": 0, "success_this_run": 0, "failed_attempts_this_run": 0, "remaining": 6000, "requests_this_run": 0, "by_source_success": {"VnExpress": 0, "TuoiTre": 0, "ThanhNien": 0, "DanTri": 0, "VietnamNet": 0}, "by_source_fail_this_run": {"VnExpress": 0, "TuoiTre": 0, "ThanhNien": 0, "DanTri": 0, "VietnamNet": 0}, "percent": 0.0}
+VnExpress: còn 5 bài, dùng 2 worker
+TuoiTre: còn 5 bài, dùng 1 worker
+ThanhNien: còn 5 bài, dùng 1 worker
+DanTri: còn 5 bài, dùng 2 worker
+VietnamNet: còn 5 bài, dùng 3 worker
+[DONE] VietnamNet-w2: success=1, fail=0
+[DONE] VnExpress-w1: success=2, fail=0
+[DONE] DanTri-w1: success=2, fail=0
+[DONE] VietnamNet-w1: success=2, fail=0
+[DONE] VietnamNet-w0: success=2, fail=0
+[DONE] VnExpress-w0: success=3, fail=0
+[DONE] DanTri-w0: success=3, fail=0
+[DONE] ThanhNien-w0: success=5, fail=0
+[DONE] TuoiTre-w0: success=5, fail=0
+PROGRESS {"updated_at": "2026-11-20T15:07:33+07:00", "elapsed_seconds": 7.5, "total_candidates": 6000, "success": 25, "success_this_run": 25, "failed_attempts_this_run": 0, "remaining": 5975, "requests_this_run": 25, "by_source_success": {"VnExpress": 5, "TuoiTre": 5, "ThanhNien": 5, "DanTri": 5, "VietnamNet": 5}, "by_source_fail_this_run": {"VnExpress": 0, "TuoiTre": 0, "ThanhNien": 0, "DanTri": 0, "VietnamNet": 0}, "percent": 0.42}
+DONE
+{
+  "finished_at": "2026-11-20T15:07:33+07:00",
+  "total_candidates": 6000,
+  "success": 25,
+  "failed": 0,
+  "not_attempted": 5975,
+  "success_rate_pct": 0.42,
+  "content_length_min": 1579,
+  "content_length_max": 11316,
+  "content_length_mean": 4068.8,
+  "missing_published_date": 0,
+  "missing_author": 5,
+  "exact_content_duplicate_groups": 0,
+  "same_title_groups": 0,
+  "by_source": [
+    {
+      "Source": "DanTri",
+      "Target": 800,
+      "Success": 5,
+      "Failed": 0,
+      "Not_Attempted": 795,
+      "Success_Rate_Pct": 0.62
+    },
+    {
+      "Source": "ThanhNien",
+      "Target": 400,
+      "Success": 5,
+      "Failed": 0,
+      "Not_Attempted": 395,
+      "Success_Rate_Pct": 1.25
+    },
+    {
+      "Source": "TuoiTre",
+      "Target": 400,
+      "Success": 5,
+      "Failed": 0,
+      "Not_Attempted": 395,
+      "Success_Rate_Pct": 1.25
+    },
+    {
+      "Source": "VietnamNet",
+      "Target": 3200,
+      "Success": 5,
+      "Failed": 0,
+      "Not_Attempted": 3195,
+      "Success_Rate_Pct": 0.16
+    },
+    {
+      "Source": "VnExpress",
+      "Target": 1200,
+      "Success": 5,
+      "Failed": 0,
+      "Not_Attempted": 1195,
+      "Success_Rate_Pct": 0.42
+    }
+  ]
+}

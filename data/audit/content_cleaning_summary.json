@@ -1,0 +1,14 @@
+{
+  "input": 5915,
+  "valid": 5903,
+  "invalid": 12,
+  "removed_caption_lines": 5122,
+  "removed_ui_lines": 0,
+  "removed_related_lines": 86,
+  "removed_url_lines": 256,
+  "starts_with_title": 0,
+  "exact_duplicate_articles": 2,
+  "length_min": 328,
+  "length_max": 34075,
+  "length_mean": 3274.3
+}

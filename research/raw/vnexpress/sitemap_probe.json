@@ -1,0 +1,73 @@
+[
+  {
+    "name": "sitemap_index",
+    "url": "https://vnexpress.net/sitemap.xml",
+    "status": 200,
+    "final_url": "https://vnexpress.net/sitemap.xml",
+    "bytes": 1372330,
+    "content_type": "application/xml; charset=utf-8",
+    "is_xml": true,
+    "entries": 9468,
+    "root": "sitemapindex"
+  },
+  {
+    "name": "daily_2026_11_20",
+    "url": "https://vnexpress.net/articles-2026-sitemap.xml?m=11&d=20",
+    "status": 200,
+    "final_url": "https://vnexpress.net",
+    "bytes": 265866,
+    "content_type": "text/html; charset=utf-8",
+    "is_xml": false,
+    "entries": null,
+    "html_title": "Báo VnExpress - Báo tiếng Việt nhiều người xem nhất",
+    "starts_with": "<!DOCTYPE html> <html lang=\"vi\" xmlns=\"http://www.w3.org/1999/xhtml\"> <head> <ti"
+  },
+  {
+    "name": "daily_2026_11_19",
+    "url": "https://vnexpress.net/articles-2026-sitemap.xml?m=11&d=19",
+    "status": 200,
+    "final_url": "https://vnexpress.net",
+    "bytes": 265866,
+    "content_type": "text/html; charset=utf-8",
+    "is_xml": false,
+    "entries": null,
+    "html_title": "Báo VnExpress - Báo tiếng Việt nhiều người xem nhất",
+    "starts_with": "<!DOCTYPE html> <html lang=\"vi\" xmlns=\"http://www.w3.org/1999/xhtml\"> <head> <ti"
+  },
+  {
+    "name": "google_news",
+    "url": "https://vnexpress.net/google-news-sitemap.xml",
+    "status": 200,
+    "final_url": "https://vnexpress.net",
+    "bytes": 265866,
+    "content_type": "text/html; charset=utf-8",
+    "is_xml": false,
+    "entries": null,
+    "html_title": "Báo VnExpress - Báo tiếng Việt nhiều người xem nhất",
+    "starts_with": "<!DOCTYPE html> <html lang=\"vi\" xmlns=\"http://www.w3.org/1999/xhtml\"> <head> <ti"
+  },
+  {
+    "name": "topics",
+    "url": "https://vnexpress.net/topics-sitemap.xml",
+    "status": 200,
+    "final_url": "https://vnexpress.net",
+    "bytes": 265866,
+    "content_type": "text/html; charset=utf-8",
+    "is_xml": false,
+    "entries": null,
+    "html_title": "Báo VnExpress - Báo tiếng Việt nhiều người xem nhất",
+    "starts_with": "<!DOCTYPE html> <html lang=\"vi\" xmlns=\"http://www.w3.org/1999/xhtml\"> <head> <ti"
+  },
+  {
+    "name": "categories",
+    "url": "https://vnexpress.net/categories-sitemap.xml",
+    "status": 200,
+    "final_url": "https://vnexpress.net",
+    "bytes": 265866,
+    "content_type": "text/html; charset=utf-8",
+    "is_xml": false,
+    "entries": null,
+    "html_title": "Báo VnExpress - Báo tiếng Việt nhiều người xem nhất",
+    "starts_with": "<!DOCTYPE html> <html lang=\"vi\" xmlns=\"http://www.w3.org/1999/xhtml\"> <head> <ti"
+  }
+]

@@ -1,0 +1,464 @@
+[
+  {
+    "topic": "Kinh tế",
+    "url": "https://vnexpress.net/moi-luong-vang-mieng-giam-toi-4-trieu-dong-5146938.html",
+    "status": 200,
+    "final_url": "https://vnexpress.net/moi-luong-vang-mieng-giam-toi-4-trieu-dong-5146938.html",
+    "bytes": 263473,
+    "content_type": "text/html; charset=utf-8",
+    "title": "Giá vàng hôm nay: Mỗi lượng vàng miếng giảm mạnh tới 4 triệu đồng",
+    "h1": "Mỗi lượng vàng miếng giảm tới 4 triệu đồng",
+    "canonical": "https://vnexpress.net/moi-luong-vang-mieng-giam-toi-4-trieu-dong-5146938.html",
+    "meta": {
+      "og:title": "Mỗi lượng vàng miếng giảm tới 4 triệu đồng",
+      "author": "VnExpress"
+    },
+    "jsonld_types": [
+      "BreadcrumbList",
+      "ListItem",
+      "ListItem",
+      "ListItem",
+      "NewsArticle",
+      "SpeakableSpecification",
+      "['Organization', 'NewsMediaOrganization']",
+      "ImageObject",
+      "ImageObject",
+      "WebPage"
+    ],
+    "datePublished": [
+      "2026-11-20T11:11:51+07:00"
+    ],
+    "author": [],
+    "selectors": {
+      "article.fck_detail": {
+        "chars": 1924,
+        "p": 12,
+        "h2": 0,
+        "img": 0,
+        "links": 2
+      },
+      ".fck_detail": {
+        "chars": 1924,
+        "p": 12,
+        "h2": 0,
+        "img": 0,
+        "links": 2
+      },
+      "article": {
+        "chars": 1924,
+        "p": 12,
+        "h2": 0,
+        "img": 0,
+        "links": 2
+      }
+    },
+    "has_article_wrapper": true,
+    "body_preview": "Mỗi lượng vàng miếng giảm tới 4 triệu đồng | SJC sáng nay hạ mạnh giá vàng miếng 4 triệu đồng chiều mua vào từ người dân trong khi bán ra giảm 2 triệu, xuống 134 triệu mỗi lượng. | Giá vàng giao ngay trên thị trường quốc tế trong 24 giờ qua tiếp tục giảm thêm 90 USD, xuống 3.534 USD một ounce, thấp nhất hơn một năm. | Tính trong 10 ngày qua, kim lo",
+    "body_chars": 1924,
+    "paragraphs": 12,
+    "images": 0
+  },
+  {
+    "topic": "Thế giới - tổng thuật",
+    "url": "https://vnexpress.net/lanh-dao-nga-my-trung-sap-hop-ba-ben-lan-dau-tien-5146594-tong-thuat.html",
+    "status": 200,
+    "final_url": "https://vnexpress.net/lanh-dao-nga-my-trung-sap-hop-ba-ben-lan-dau-tien-5146594-tong-thuat.html",
+    "bytes": 274182,
+    "content_type": "text/html; charset=utf-8",
+    "title": "Lãnh đạo Nga - Mỹ - Trung lần đầu họp thượng đỉnh ba bên - Báo VnExpress",
+    "h1": "Lãnh đạo Nga - Mỹ - Trung lần đầu họp thượng đỉnh ba bên",
+    "canonical": "https://vnexpress.net/lanh-dao-nga-my-trung-sap-hop-ba-ben-lan-dau-tien-5146594-tong-thuat.html",
+    "meta": {
+      "og:title": "Lãnh đạo Nga - Mỹ - Trung lần đầu họp thượng đỉnh ba bên",
+      "author": "VnExpress"
+    },
+    "jsonld_types": [
+      "VideoObject",
+      "BreadcrumbList",
+      "ListItem",
+      "ListItem",
+      "NewsArticle",
+      "SpeakableSpecification",
+      "['Organization', 'NewsMediaOrganization']",
+      "ImageObject",
+      "ImageObject",
+      "WebPage"
+    ],
+    "datePublished": [
+      "2026-11-19T14:26:53+07:00"
+    ],
+    "author": [],
+    "selectors": {
+      ".fck_detail": {
+        "chars": 3007,
+        "p": 12,
+        "h2": 0,
+        "img": 2,
+        "links": 1
+      },
+      "article": {
+        "chars": 3237,
+        "p": 13,
+        "h2": 0,
+        "img": 2,
+        "links": 8
+      }
+    },
+    "has_article_wrapper": false,
+    "body_preview": "Cuộc gặp thượng đỉnh ba bên lần đầu tiên giữa Tổng thống Nga Vladimir Putin, Tổng thống Mỹ Donald Trump và Chủ tịch Trung Quốc Tập Cận Bình diễn ra tại khu nghỉ dưỡng Kỳ Lân Sơn Trang chiều 19/11, bên lề Diễn đàn Hợp tác Kinh tế châu Á - Thái Bình Dương (APEC). | Các lãnh đạo chụp ảnh chung trước quốc kỳ ba nước và không bắt tay, sau đó cùng tiến v",
+    "body_chars": 3007,
+    "paragraphs": 12,
+    "images": 2
+  },
+  {
+    "topic": "Thể thao - tổng thuật",
+    "url": "https://vnexpress.net/viet-nam-vs-kyrgyzstan-5145800-tong-thuat.html",
+    "status": 200,
+    "final_url": "https://vnexpress.net/viet-nam-vs-kyrgyzstan-5145800-tong-thuat.html",
+    "bytes": 285889,
+    "content_type": "text/html; charset=utf-8",
+    "title": "[Kết quả] Việt Nam 1-2 Kyrgyzstan",
+    "h1": "Việt Nam thua ngược Kyrgyzstan trong hai phút",
+    "canonical": "https://vnexpress.net/viet-nam-vs-kyrgyzstan-5145800-tong-thuat.html",
+    "meta": {
+      "og:title": "Việt Nam thua ngược Kyrgyzstan trong hai phút",
+      "author": "VnExpress"
+    },
+    "jsonld_types": [
+      "VideoObject",
+      "BreadcrumbList",
+      "ListItem",
+      "ListItem",
+      "ListItem",
+      "NewsArticle",
+      "SpeakableSpecification",
+      "['Organization', 'NewsMediaOrganization']",
+      "ImageObject",
+      "ImageObject"
+    ],
+    "datePublished": [
+      "2026-11-17T18:05:00+07:00"
+    ],
+    "author": [],
+    "selectors": {
+      ".fck_detail": {
+        "chars": 6677,
+        "p": 23,
+        "h2": 0,
+        "img": 5,
+        "links": 3
+      },
+      "article": {
+        "chars": 6897,
+        "p": 24,
+        "h2": 0,
+        "img": 5,
+        "links": 10
+      }
+    },
+    "has_article_wrapper": false,
+    "body_preview": "Hai phút cuối trận, những gì tuyển Việt Nam cố gắng giữ gìn trong gần 90 phút bỗng sụp đổ. Phút 86, đội chủ nhà để đội trưởng Valery Kichin thoải mái đánh đầu gỡ hòa sau quả phạt góc. Đến phút 88, Atabaev tận dụng tình huống Ngọc Sơn mất bóng, sút từ khoảng 60 m đưa bóng qua đầu thủ môn Trần Trung Kiên vào lưới. | Trên sân Thiên Trường tối 17/11, c",
+    "body_chars": 6677,
+    "paragraphs": 23,
+    "images": 5
+  },
+  {
+    "topic": "Pháp luật",
+    "url": "https://vnexpress.net/vks-de-nghi-bac-don-kien-benh-vien-phu-san-ha-noi-cua-san-phu-mat-hai-con-5146789.html",
+    "status": 200,
+    "final_url": "https://vnexpress.net/vks-de-nghi-bac-don-kien-benh-vien-phu-san-ha-noi-cua-san-phu-mat-hai-con-5146789.html",
+    "bytes": 272607,
+    "content_type": "text/html; charset=utf-8",
+    "title": "VKS đề nghị bác đơn kiện Bệnh viện Phụ sản Hà Nội của sản phụ mất hai con - Báo VnExpress",
+    "h1": "VKS đề nghị bác đơn kiện Bệnh viện Phụ sản Hà Nội của sản phụ mất hai con",
+    "canonical": "https://vnexpress.net/vks-de-nghi-bac-don-kien-benh-vien-phu-san-ha-noi-cua-san-phu-mat-hai-con-5146789.html",
+    "meta": {
+      "og:title": "VKS đề nghị bác đơn kiện Bệnh viện Phụ sản Hà Nội của sản phụ mất hai con",
+      "author": "VnExpress"
+    },
+    "jsonld_types": [
+      "NewsArticle",
+      "Organization",
+      "ImageObject",
+      "Organization",
+      "ImageObject",
+      "WebPage",
+      "ImageObject",
+      "BreadcrumbList",
+      "ListItem"
+    ],
+    "datePublished": [
+      "2026-11-20T00:00:00+07:00"
+    ],
+    "author": [
+      {
+        "@type": "Organization",
+        "name": "VnExpress"
+      }
+    ],
+    "selectors": {
+      "article.fck_detail": {
+        "chars": 5697,
+        "p": 33,
+        "h2": 0,
+        "img": 1,
+        "links": 0
+      },
+      ".fck_detail": {
+        "chars": 5697,
+        "p": 33,
+        "h2": 0,
+        "img": 1,
+        "links": 0
+      },
+      "article": {
+        "chars": 5697,
+        "p": 33,
+        "h2": 0,
+        "img": 1,
+        "links": 0
+      }
+    },
+    "has_article_wrapper": true,
+    "body_preview": "VKS đề nghị bác đơn kiện Bệnh viện Phụ sản Hà Nội của sản phụ mất hai con | Hà Nội | Đề nghị bác yêu cầu đòi hơn 520 triệu đồng của sản phụ mất hai con song VKS cho rằng người mẹ kiện để được giải thích rõ nguyên nhân tử vong, \"không phải vì tiền bồi thường\". | Sau gần hai tháng tạm dừng để xác minh thêm thông tin, ngày 19/11, TAND khu vực 2 - Hà N",
+    "body_chars": 5697,
+    "paragraphs": 33,
+    "images": 1
+  },
+  {
+    "topic": "Công nghệ",
+    "url": "https://vnexpress.net/cu-bat-tau-vu-tru-starship-bang-dua-gap-nhin-tu-thap-phong-5147012.html",
+    "status": 200,
+    "final_url": "https://vnexpress.net/cu-bat-tau-vu-tru-starship-bang-dua-gap-nhin-tu-thap-phong-5147012.html",
+    "bytes": 267311,
+    "content_type": "text/html; charset=utf-8",
+    "title": "Cú bắt tàu vũ trụ Starship bằng đũa gắp nhìn từ tháp phóng - Báo VnExpress",
+    "h1": "Cú bắt tàu vũ trụ Starship bằng đũa gắp nhìn từ tháp phóng",
+    "canonical": "https://vnexpress.net/cu-bat-tau-vu-tru-starship-bang-dua-gap-nhin-tu-thap-phong-5147012.html",
+    "meta": {
+      "og:title": "Cú bắt tàu vũ trụ Starship bằng đũa gắp nhìn từ tháp phóng",
+      "author": "VnExpress"
+    },
+    "jsonld_types": [
+      "VideoObject",
+      "BreadcrumbList",
+      "ListItem",
+      "ListItem",
+      "ListItem",
+      "NewsArticle",
+      "SpeakableSpecification",
+      "['Organization', 'NewsMediaOrganization']",
+      "ImageObject",
+      "ImageObject"
+    ],
+    "datePublished": [
+      "2026-11-20T12:00:41+07:00"
+    ],
+    "author": [],
+    "selectors": {
+      "article.fck_detail": {
+        "chars": 2976,
+        "p": 10,
+        "h2": 0,
+        "img": 1,
+        "links": 0
+      },
+      ".fck_detail": {
+        "chars": 2976,
+        "p": 10,
+        "h2": 0,
+        "img": 1,
+        "links": 0
+      },
+      "article": {
+        "chars": 2976,
+        "p": 10,
+        "h2": 0,
+        "img": 1,
+        "links": 0
+      }
+    },
+    "has_article_wrapper": true,
+    "body_preview": "Cú bắt tàu vũ trụ Starship bằng đũa gắp nhìn từ tháp phóng | Loạt video quay chậm do SpaceX chia sẻ hé lộ góc nhìn mới về lần đầu thu hồi tầng trên tên lửa Starship bằng đũa gắp. | SpaceX gây tiếng vang khi thu hồi tầng trên tên lửa Starship hôm 14/11, sử dụng cánh tay cơ khí trên tháp phóng tại cơ sở Starbase ở nam Texas. Công ty mới chia sẻ đoạn ",
+    "body_chars": 2976,
+    "paragraphs": 10,
+    "images": 1
+  },
+  {
+    "topic": "Du lịch",
+    "url": "https://vnexpress.net/du-khach-do-den-tham-quyen-xem-trung-quoc-nam-2050-5146978.html",
+    "status": 200,
+    "final_url": "https://vnexpress.net/du-khach-do-den-tham-quyen-xem-trung-quoc-nam-2050-5146978.html",
+    "bytes": 268627,
+    "content_type": "text/html; charset=utf-8",
+    "title": "Du khách đổ đến Thâm Quyến 'xem Trung Quốc năm 2050' - Báo VnExpress Du lịch",
+    "h1": "Du khách đổ đến Thâm Quyến 'xem Trung Quốc năm 2050'",
+    "canonical": "https://vnexpress.net/du-khach-do-den-tham-quyen-xem-trung-quoc-nam-2050-5146978.html",
+    "meta": {
+      "og:title": "Du khách đổ đến Thâm Quyến 'xem Trung Quốc năm 2050'",
+      "author": "VnExpress"
+    },
+    "jsonld_types": [
+      "BreadcrumbList",
+      "ListItem",
+      "ListItem",
+      "ListItem",
+      "NewsArticle",
+      "SpeakableSpecification",
+      "['Organization', 'NewsMediaOrganization']",
+      "ImageObject",
+      "ImageObject",
+      "WebPage"
+    ],
+    "datePublished": [
+      "2026-11-20T13:17:41+07:00"
+    ],
+    "author": [],
+    "selectors": {
+      "article.fck_detail": {
+        "chars": 3429,
+        "p": 17,
+        "h2": 0,
+        "img": 2,
+        "links": 0
+      },
+      ".fck_detail": {
+        "chars": 3429,
+        "p": 17,
+        "h2": 0,
+        "img": 2,
+        "links": 0
+      },
+      "article": {
+        "chars": 3429,
+        "p": 17,
+        "h2": 0,
+        "img": 2,
+        "links": 0
+      }
+    },
+    "has_article_wrapper": true,
+    "body_preview": "Du khách đổ đến Thâm Quyến 'xem Trung Quốc năm 2050' | Khách quốc tế đổ đến Thâm Quyến để xem \"Trung Quốc năm 20250\" với taxi không người lái, robot và drone giao hàng. | Dưới những tòa nhà chọc trời của các tập đoàn công nghệ lớn, một nhóm du khách nước ngoài hào hứng dùng điện thoại ghi lại cảnh drone giao trà sữa từ trên không xuống điểm nhận hà",
+    "body_chars": 3429,
+    "paragraphs": 17,
+    "images": 2
+  },
+  {
+    "topic": "Giáo dục",
+    "url": "https://vnexpress.net/co-giao-bat-khoc-khi-hoc-tro-xach-muc-ghe-oc-den-tang-ngay-20-11-5147020.html",
+    "status": 200,
+    "final_url": "https://vnexpress.net/co-giao-bat-khoc-khi-hoc-tro-xach-muc-ghe-oc-den-tang-ngay-20-11-5147020.html",
+    "bytes": 267255,
+    "content_type": "text/html; charset=utf-8",
+    "title": "Cô giáo bật khóc khi học trò xách mực, ghẹ, ốc đến tặng ngày 20/11 - Báo VnExpress",
+    "h1": "Cô giáo bật khóc khi học trò xách mực, ghẹ, ốc đến tặng ngày 20/11",
+    "canonical": "https://vnexpress.net/co-giao-bat-khoc-khi-hoc-tro-xach-muc-ghe-oc-den-tang-ngay-20-11-5147020.html",
+    "meta": {
+      "og:title": "Cô giáo bật khóc khi học trò xách mực, ghẹ, ốc đến tặng ngày 20/11",
+      "author": "VnExpress"
+    },
+    "jsonld_types": [
+      "BreadcrumbList",
+      "ListItem",
+      "ListItem",
+      "ListItem",
+      "NewsArticle",
+      "SpeakableSpecification",
+      "['Organization', 'NewsMediaOrganization']",
+      "ImageObject",
+      "ImageObject",
+      "WebPage"
+    ],
+    "datePublished": [
+      "2026-11-20T12:58:37+07:00"
+    ],
+    "author": [],
+    "selectors": {
+      "article.fck_detail": {
+        "chars": 1912,
+        "p": 14,
+        "h2": 0,
+        "img": 2,
+        "links": 0
+      },
+      ".fck_detail": {
+        "chars": 1912,
+        "p": 14,
+        "h2": 0,
+        "img": 2,
+        "links": 0
+      },
+      "article": {
+        "chars": 1912,
+        "p": 14,
+        "h2": 0,
+        "img": 2,
+        "links": 0
+      }
+    },
+    "has_article_wrapper": true,
+    "body_preview": "Cô giáo bật khóc khi học trò xách mực, ghẹ, ốc đến tặng ngày 20/11 | Quảng Ninh | Cô Nguyễn Thị Chuyên vừa cười vừa rơi nước mắt khi học trò lớp 2A1 mang bí xanh, xô ốc, dây ghẹ, mực... tặng dịp 20/11. | Sáng sớm nay, điện thoại của cô Nguyễn Thị Chuyên, giáo viên trường Tiểu học và THCS Cô Tô, đổ chuông liên tục. Nhiều phụ huynh lớp 2A1 hỏi cô đã ",
+    "body_chars": 1912,
+    "paragraphs": 14,
+    "images": 2
+  },
+  {
+    "topic": "Sức khỏe",
+    "url": "https://vnexpress.net/be-gai-viem-thi-than-kinh-do-sot-xuat-huyet-5146708.html",
+    "status": 200,
+    "final_url": "https://vnexpress.net/be-gai-viem-thi-than-kinh-do-sot-xuat-huyet-5146708.html",
+    "bytes": 298826,
+    "content_type": "text/html; charset=utf-8",
+    "title": "Bé gái viêm thị thần kinh do sốt xuất huyết - Báo VnExpress Sức khỏe",
+    "h1": "Bé gái viêm thị thần kinh do sốt xuất huyết",
+    "canonical": "https://vnexpress.net/be-gai-viem-thi-than-kinh-do-sot-xuat-huyet-5146708.html",
+    "meta": {
+      "og:title": "Bé gái viêm thị thần kinh do sốt xuất huyết - Báo VnExpress ",
+      "author": "VnExpress"
+    },
+    "jsonld_types": [
+      "BreadcrumbList",
+      "ListItem",
+      "ListItem",
+      "ListItem",
+      "ListItem",
+      "ListItem",
+      "NewsArticle",
+      "SpeakableSpecification",
+      "['Organization', 'NewsMediaOrganization']",
+      "ImageObject"
+    ],
+    "datePublished": [
+      "2026-11-20T11:00:00+07:00"
+    ],
+    "author": [],
+    "selectors": {
+      "article.fck_detail": {
+        "chars": 3663,
+        "p": 15,
+        "h2": 0,
+        "img": 2,
+        "links": 4
+      },
+      ".fck_detail": {
+        "chars": 3663,
+        "p": 15,
+        "h2": 0,
+        "img": 2,
+        "links": 4
+      },
+      "article": {
+        "chars": 3663,
+        "p": 15,
+        "h2": 0,
+        "img": 2,
+        "links": 4
+      }
+    },
+    "has_article_wrapper": true,
+    "body_preview": "Bé gái viêm thị thần kinh do sốt xuất huyết | TP HCM | Bé Hân, 8 tuổi, mờ mắt sau 7 ngày sốt xuất huyết, bác sĩ chẩn đoán viêm dây thần kinh thị giác khiến đường truyền tín hiệu từ mắt đến não bị ảnh hưởng. | Mẹ bé Hân cho biết sau đợt điều trị sốt xuất huyết, Hân thường xuyên nheo mắt, không nhìn rõ đường đi, phải bám tường khi di chuyển. Bác sĩ C",
+    "body_chars": 3663,
+    "paragraphs": 15,
+    "images": 2
+  }
+]

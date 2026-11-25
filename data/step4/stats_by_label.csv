@@ -1,0 +1,9 @@
+﻿Label,Target,Success,Failed,Not_Attempted,Success_Rate_Pct
+Công nghệ,750,747,3,0,99.6
+Du lịch,750,745,5,0,99.33
+Giáo dục,750,730,20,0,97.33
+Kinh tế,750,740,10,0,98.67
+Pháp luật,750,746,4,0,99.47
+Sức khỏe,750,747,3,0,99.6
+Thế giới,750,738,12,0,98.4
+Thể thao,750,722,28,0,96.27

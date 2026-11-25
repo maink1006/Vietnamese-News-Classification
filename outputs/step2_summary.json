@@ -1,0 +1,25 @@
+{
+  "vnexpress_retained": true,
+  "vnexpress_pages_checked": 40,
+  "vnexpress_pages_200": 40,
+  "vnexpress_unique_min": 161,
+  "vnexpress_unique_max": 184,
+  "vnexpress_article_samples": 8,
+  "vnexpress_article_samples_200": 8,
+  "vnexpress_article_chars_min": 1912,
+  "vnexpress_article_chars_max": 6677,
+  "sitemap_child_usable": false,
+  "source_plan_rows": 40,
+  "candidates_total": 6000,
+  "labels": [
+    "Kinh tế",
+    "Thế giới",
+    "Thể thao",
+    "Pháp luật",
+    "Giáo dục",
+    "Sức khỏe",
+    "Công nghệ",
+    "Du lịch"
+  ],
+  "checked_at": "2026-11-20T13:35:00+07:00"
+}
